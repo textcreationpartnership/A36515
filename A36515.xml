@@ -1,0 +1,769 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A friendly debate between Satan and Sherlock containing a discovery of the unsoundness of Mr. William Sherlocks principles in a late book entituled A discourse concerning the knowledge of Jesus Christ &amp;c., by this only medium, that they afford the Devil the same grounds for his hope of salvation that they do mankind, and so subvert the Gospel and transform Christianity into Mahumetanism / by an hearty enemy of Mahumetanism.</title>
+            <author>Danson, Thomas, d. 1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 96 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36515</idno>
+            <idno type="STC">Wing D213</idno>
+            <idno type="STC">ESTC R24867</idno>
+            <idno type="EEBO-CITATION">08630080</idno>
+            <idno type="OCLC">ocm 08630080</idno>
+            <idno type="VID">41494</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36515)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41494)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1255:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A friendly debate between Satan and Sherlock containing a discovery of the unsoundness of Mr. William Sherlocks principles in a late book entituled A discourse concerning the knowledge of Jesus Christ &amp;c., by this only medium, that they afford the Devil the same grounds for his hope of salvation that they do mankind, and so subvert the Gospel and transform Christianity into Mahumetanism / by an hearty enemy of Mahumetanism.</title>
+                  <author>Danson, Thomas, d. 1694.</author>
+               </titleStmt>
+               <extent>[11], 50, [6] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Postscript to the reader" signed: Tho. Danson.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherlock, William, 1641?-1707. --  Discourse concerning the knowledge of Jesus Christ.</term>
+               <term>Mystical union.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41494:1" rendition="simple:additions"/>
+            <pb facs="tcp:41494:1" rendition="simple:additions"/>
+            <p>A <hi>Friendly-Debate</hi> Between <hi>SATAN</hi> and <hi>SHERLOCK:</hi> Containing A Diſcovery of the unſoundneſs of Mr. <hi>William Sherlocks</hi> Principles, In a late Book Entituled <hi>A Diſ<g ref="char:EOLhyphen"/>courſe concerning the Knowledg of Jeſus Chriſt,</hi> &amp;c.</p>
+            <p>By this only Medium, That they af<g ref="char:EOLhyphen"/>ford the Devil the ſame grounds for his hope of Salvation, that they do Mankind; and ſo ſubvert the Goſpel, and transform Chri<g ref="char:EOLhyphen"/>ſtianity into Mahumetaniſm.</p>
+            <p>By an hearty Enemy of <hi>Mahumetaniſm.</hi>
+            </p>
+            <q>
+               <p>In <hi>Sociniſmo,</hi> qui <hi>ſubtilior Mahumetiſmus</hi> non im<g ref="char:EOLhyphen"/>merito vocatur, pandit os ſuum ipſa vorago, ipſum Ba<g ref="char:EOLhyphen"/>rathrum irreligionis. <hi>Arrowſmith.</hi> 
+                  <bibl>Tact. Sacr. l. <hi>2.</hi> c. <hi>1.</hi> Sect. <hi>14.</hi>
+                  </bibl>
+               </p>
+               <p>Eos [ſc. Socinianes] non modo Chriſtianorum, ſed nec haereticorum nomine dignor. Chriſtianitatem nomine retinent, re deſtruunt, Itaque hos a Mahumetiſtis nos longe ſeparo, qui <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ipſi quidam Jeſu maledicunt. <hi>Gro<g ref="char:EOLhyphen"/>tius</hi> in Epiſt. ad Wallaeum. Wall. opera in fol. <hi>p. 399.</hi>
+               </p>
+            </q>
+            <p>Printed in the Year. 1676.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:41494:2"/>
+            <pb facs="tcp:41494:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>A</hi> Sufficient (though a ſhort) account of the deſign of theſe Sheets hath been al<g ref="char:EOLhyphen"/>ready given in the Title Page; yet the Author con<g ref="char:EOLhyphen"/>ceives himſelf obliged to make an Apo<g ref="char:EOLhyphen"/>logy for three things, which he preſumes an intelligent Reader may fault in them.</p>
+            <p n="1">
+               <hi>1.</hi> That they come out ſo late, when many Perſons of ability have foiled the Adverſary; and when he hath mollified the harſhneſs of many expreſſions here re<g ref="char:EOLhyphen"/>peated, in a ſecond Diſcourſe. To the former he anſwers, That none hath dealt with Mr. <hi>Sherlock</hi> upon the medium here ſuggeſted; and that the World had
+<pb facs="tcp:41494:3"/>had theſe Sheets ſooner, if this medium they contain, had come ſooner in his thoughts. To the latter, that he finds not in Mr. <hi>Sherlocks</hi> ſecond Diſcourſe, any retractation of his unſcund Tenets, though he ſeems upon ſecond thoughts not ſo well pleaſed with his own Phraſeo<g ref="char:EOLhyphen"/>logy, as giving cauſe to every <hi>Man</hi> whoſe addition is <hi>Chriſtian,</hi> to <hi>ſuſpect, that under a pretence of rectifying mi<g ref="char:EOLhyphen"/>ſtakes, he deſigned to expoſe all Reli<g ref="char:EOLhyphen"/>gion</hi> (which not without cauſe he inti<g ref="char:EOLhyphen"/>mated his fear of, <hi>Pref. p. 3. of his firſt Diſcourſe).</hi>
+            </p>
+            <p n="2">
+               <hi>2.</hi> It may be blamed that Mr <hi>Sherlocks</hi> Principles are repreſented under this form of a <hi>Dialogue;</hi> and with ſo odi<g ref="char:EOLhyphen"/>ous a choice of a <hi>Dialogiſt:</hi> For the form it ſelf, the Author might ſuppoſe the examples which ſome of Mr <hi>Sh</hi>'s. per<g ref="char:EOLhyphen"/>ſuaſion have ſet him, a ſufficient juſtifi<g ref="char:EOLhyphen"/>cation. Mr <hi>Hoard</hi> in a book Entituled, <hi>Gods Love to Mankind,</hi> hath framed a Conference between <hi>Tempted</hi> and <hi>Mini<g ref="char:EOLhyphen"/>ſter,</hi>
+               <pb facs="tcp:41494:3" rendition="simple:additions"/>to ſhew how uncapable the <hi>Tempt<g ref="char:EOLhyphen"/>ed</hi> are of true comfort, or <hi>Miniſters</hi> to give it, upon the Church of <hi>England</hi>'s Principles, in the <hi>Quinquarticular</hi> Con<g ref="char:EOLhyphen"/>troverſie. And this perhaps occaſioned a moſt learned Father of the Church of <hi>England</hi>'s accurate Diſcourſe againſt the whole Book. And ſince, an Anonimous Author publiſhed in Latin a Dialogue, called <hi>Fur praedeſtinatus,</hi> Elect Thief. between a <hi>Calviniſt</hi> Miniſter, and a Thief condemned to be hanged, with a deſign to expoſe the Doctrine of the Proteſtant Churches in the Five Points; which gave an Alarm to a learned Son of the Church of <hi>England,</hi> and made him take Arms in its defence and vindication. And ſince them, one bearing the name of <hi>the Iriſh-Saint,</hi> hath publiſhed Two parts of a <hi>Friendly-Debate.</hi> And ſince him (to trouble the Reader with no more Exam<g ref="char:EOLhyphen"/>ples) another hath Printed, <hi>A Diſ<g ref="char:EOLhyphen"/>courſe between Two intimate Friends.</hi> Both which laſt, drive on the ſame de<g ref="char:EOLhyphen"/>ſign with the two firſt, but more covert<g ref="char:EOLhyphen"/>ly,
+<pb facs="tcp:41494:4"/>upon pretence of laſhing the Non-Con<g ref="char:EOLhyphen"/>formiſts only (whom yet the Church of <hi>England</hi> hath more than once acknow<g ref="char:EOLhyphen"/>ledged for Conformiſts in Doctrine). The Author of this Dialogue will not de<g ref="char:EOLhyphen"/>ny, (what he ſuppoſes any intelligent Reader may except againſt the uſe of them) that Dialogues give an advan<g ref="char:EOLhyphen"/>tage to their Compiler to put what words he pleaſes into his Adverſaries mouth, to the prejudice of his own Cauſe. And whether the Compilers of the Dialogues above-mentioned, have not therefore made choice of this, rather than ano<g ref="char:EOLhyphen"/>ther form of Diſcourſe? And whether they have not ſufficiently improved it to that end, he had rather others, than himſelf ſhould ſay? As for himſelf, he can alledg, that the medium he hath pitcht upon, hath almoſt neceſſitated him to appear in this Garb: And whe<g ref="char:EOLhyphen"/>ther he hath made a virtue (or a vice) of neceſſity, he is very well contented the Reader ſhould be judg (as indeed he will be, be the Author pleaſed or diſ<g ref="char:EOLhyphen"/>pleaſed):
+<pb facs="tcp:41494:4"/>And that he may judg aright he is deſired to obſerve, that what is Printed in a different Character, with the number of a Page, is Mr. <hi>Sherlocks</hi> own words: The reſt (except now and then a little merriment, or chiding) contains Conſe<g ref="char:EOLhyphen"/>quences, and Explications of his Princi<g ref="char:EOLhyphen"/>ples, ſo eaſie and uninforced in the Au<g ref="char:EOLhyphen"/>thors own judgment, that he does hereby boldly offer himſelf to be tried by his Countrey. If fair words would win belief, he might borrow Mr. <hi>Sherlocks</hi> (which are freſh in memory) <hi>I have repreſented his Opinions in his own words, and am not conſcious to my ſelf, that I have put any other ſenſe upon his words than he intended; and I cannot ſee what reaſon any Man hath to take it ill, that I repeat that which he himſelf thought fit to publiſh,</hi> Pref. p. <hi>3.</hi> But ſo many have ſaid of him, <hi>Quid verba audiam, cum facta videam,</hi> What do you tell me of words, when I ſee contrary deeds. That the <hi>Au<g ref="char:EOLhyphen"/>thor</hi> is afraid leſt his own ſincerity ſhould be ſuſpected, <hi>eo nomine,</hi> becauſe he affects
+<pb facs="tcp:41494:5"/>to profeſs it in Mr. <hi>Sherlocks</hi> words: However he hath run the venture for once, being aſſured that the words are in<g ref="char:EOLhyphen"/>nocent enough, how guilty ſoever of abu<g ref="char:EOLhyphen"/>ſing them Mr <hi>Sherlock</hi> may have been. The only thing that the Author of this Dia<g ref="char:EOLhyphen"/>logue conceives a leſs obſervant Reader may have juſt cauſe to diſlike, is, that Mr. <hi>Sh.</hi> is brought in as <hi>ex profeſſo,</hi> deſigning to give the Devil hopes of Salvation; which yet he no where does throughout his whole Biok. But for that, the Au<g ref="char:EOLhyphen"/>thor is willing to be quit or caſt, as Mr. <hi>Sherlocks</hi> own <hi>Practice</hi> and <hi>Apology</hi> for it, ſhall give their verdict. His <hi>Practice</hi> is this, That he brings in the Learned men againſt whom he Writes, as <hi>renouncing Chriſt's mediation, and truſting to the goodneſs of his Nature; as ſetting up a new Religion, which hath no Covenant, and no Promiſe,</hi> p. <hi>23. and as quitting Chriſts Promiſe and his Covenant, to rely and rowl upon his Perſon,</hi> p. <hi>24. The Apology</hi> is this, <hi>This is ſo very abſurd at firſt
+<pb facs="tcp:41494:5"/>ſight, that I know no Man will own in it ſo many words, nor do I charge any Man with it; but I ſay, this is the na<g ref="char:EOLhyphen"/>tural Interpretation of truſting in the Perſon of Chriſt, in his Blood, and Merits, and All-ſufficiency, and of re<g ref="char:EOLhyphen"/>lying and rowling the Soul on Chriſt for Salvation, and the like Phraſes of a late date, in which ſome men place the whole Myſtery of the Goſpel,</hi> p. <hi>24. mutatis mutandis;</hi> the Author accepts it for his Apology, that to give the De<g ref="char:EOLhyphen"/>vil as fair hopes of Salvation as Man<g ref="char:EOLhyphen"/>kind, is ſo very abſurd, that he knows Mr. <hi>Sherlock</hi> will not own it in ſo many words, nor does the Author charge him with it; but he ſays, This is the natural Interpretation of Gods loving all his creatures, according to the capacity of their Natures, and of Gods fetching the Reaſon of his Love to them, from their holineſs (and that imperfect too); and of making the creatures ground of hope of pardon and acceptance, to be not an offer'd Saviour, or a Promiſe, but Gods
+<pb facs="tcp:41494:6"/>gracious Nature, which obliges him to receive a penitent ſinner, and to reward all his good actions, which are ſincerely (though not perfectly) good; and the like Doctrines of a late date, which Mr. <hi>Sherlock</hi> puts in the place of the whole myſtery of the Goſpel, till Chriſts Incar<g ref="char:EOLhyphen"/>nation (as the Dialogue will more par<g ref="char:EOLhyphen"/>ticularly inform the Reader). And what is this (by the by) to retort Mr. <hi>Sher<g ref="char:EOLhyphen"/>locks</hi> unjuſt charge upon his Antagoniſts, most juſtly upon himſelf, but <hi>to re<g ref="char:EOLhyphen"/>nounce Chriſts Mediation,</hi> and <hi>truſt to the goodneſs of his Nature [as God]</hi> and <hi>to ſet up a new Religion, which hath no Covenant, and no Pro<g ref="char:EOLhyphen"/>miſe?</hi>
+            </p>
+            <p>As for the choice (odious enough) of a Dialogiſt to hold Mr. <hi>Sherlock</hi> in Di<g ref="char:EOLhyphen"/>ſcourſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: The Author could not avoid it, in regard of the <hi>Medium</hi> he inſiſts upon. For who can be imagined a fitter Perſon to debate the Point with him, whether there be any ground of hope for the De<g ref="char:EOLhyphen"/>vils
+<pb facs="tcp:41494:6"/>Salvation, than the perſon con<g ref="char:EOLhyphen"/>cerned, <hi>Satan</hi> himſelf?</p>
+            <p n="3">
+               <hi>3.</hi> The laſt thing that ſome Readers may fault is, That this Dialogue de<g ref="char:EOLhyphen"/>tracts from the Devils abilities of ma<g ref="char:EOLhyphen"/>naging a Controverſy: For he is com<g ref="char:EOLhyphen"/>monly introduced as acquieſcing in Mr. <hi>Sherlocks</hi> grounds, which are liable enough to exception. To that the Au<g ref="char:EOLhyphen"/>thor replies, that there is a <hi>Fitneſs</hi> and a <hi>Neceſſity</hi> of repreſenting the Devil as a mean Diſputant. <hi>A Fitneſs,</hi> There being nothing ſo diſhonourable to him<g ref="char:EOLhyphen"/>ſelf, which the Devil will not ſubmit to, to attain his miſchievous end, the in<g ref="char:EOLhyphen"/>volving mankind, into the ſame irre<g ref="char:EOLhyphen"/>parable miſery with himſelf (as dayly experience aſſures us): Satan may be preſumed to be well enough contented to ſeem overcome by Mr. <hi>Sherlocks</hi> argu<g ref="char:EOLhyphen"/>mentation, That ſinful men may be in<g ref="char:EOLhyphen"/>duced to lean upon an houſe which will not ſtand, to take up strong hopes upon weak grounds, which will certainly fail
+<pb facs="tcp:41494:7"/>them when they most need them. <hi>A Neceſſity,</hi> in regard of the deficiency of Mr. <hi>Sherlocks</hi> Book (to which the Dialogue is confined) which affords not anſwers to multitudes of exceptions (which might have been put into Satans mouth) against the Principles therein contained.</p>
+            <p>And perhaps ſome Readers may find a fourth fault, that the Author brings in Satan as playing upon Mr <hi>Sherlock.</hi> But hath not Mr <hi>Sherlock</hi> taken the ſame liberty with his Antagonists? Yes, and made an Apology for it. The Au<g ref="char:EOLhyphen"/>thor is content to do ſo too, and to un<g ref="char:EOLhyphen"/>dergo the cenſure of a Fool, <hi>Qui maluit culpam excuſare, quum non committe<g ref="char:EOLhyphen"/>re,</hi> i. e. who had rather commit a fault, and get a pardon by an Apology; than to be innocent, and ſo ſtand in need of neither: And one Apology will ſerve us both (only changing the perſons). <hi>Where he pretends to argue gravely, I have ex<g ref="char:EOLhyphen"/>amined his Arguments with all poſſible
+<pb facs="tcp:41494:7"/>gravity and ſolemnity; where he plain<g ref="char:EOLhyphen"/>ly toys and trifles, I have ſo far com<g ref="char:EOLhyphen"/>plied with his humour, as to ſmile ſometimes, though as modeſtly, as any Man can deſire.</hi> Pref. p. <hi>3.</hi> But the Reader hath been too long detained in the Porch, he may now with the Au<g ref="char:EOLhyphen"/>thors good leave go into the Houſe it ſelf, if he thinks there is any thing within that is worth the ſeeing.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:41494:8"/>
+            <pb n="1" facs="tcp:41494:8"/>
+            <head>A Friendly-Debate <hi>BETWEEN</hi> SATAN <hi>and</hi> SHERLOCK.</head>
+            <sp>
+               <speaker>SHerlock,</speaker>
+               <p>Well met <hi>Satan,</hi> I am ſorry to ſee you look ſo ſad; pray, What's the matter?</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>Sure, Sir, you cannot be igno<g ref="char:EOLhyphen"/>rant of the cauſe of my ſadneſs. Alas! I am a miſerable creature, and ſee no hope of men<g ref="char:EOLhyphen"/>ding my condition.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>I had thought you had underſtood your ſelf better, then to be ſo cauſeleſly deject<g ref="char:EOLhyphen"/>ed. <hi>The light of nature, and works of Crea<g ref="char:EOLhyphen"/>tion and Providence aſſure us, that God is ſo good, that he deſigns and deſires the happineſs of all his creatures according to the capacity of their Natures,</hi> p. 42. Either therefore thou art none of his Creatures, or thy Nature un<g ref="char:EOLhyphen"/>capable of happineſs, or God deſigns and de<g ref="char:EOLhyphen"/>ſires thy happineſs, as well as of other of his Creatures.</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>What aſſurance the light of Nature
+<pb n="2" facs="tcp:41494:9"/>and works of Creation and Providence gives you, I know not: But to me it gives none of Gods pardoning Mercy to ſinners. I have heard <hi>That the Love of God to ſinners, and his pardoning Mercy, eould never have entred into the heart of Man or Angels, but by Chriſt.</hi> And the Scripture (which I believe againſt my will) ſeems to countenance the aſſertion; for this love is called <hi>a myſtery hid in God, and made known to Gentiles,</hi> and <hi>to Principalities and powers:</hi> That is, to Angels.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>What! I perceive you have been an hearer at ſome Conventicle; one <hi>J. O.</hi> tells us ſo indeed; but I ſay, <hi>He is a confident Man to tell us ſo, when the experience of the whole World confutes him: For whatever becomes of his new Theories, both Jews and Heathens (who underſtood nothing at all of what Chriſt was to do in order to our recovery) did believe God to be gracious and merciful to ſinners. — And theſe natural Notions the Heathens had of God, and all theſe diſcoveries God had made of himſelf in the works of Creation and Providence, did aſſure them, that God is very good, and it is not poſſible to underſtand what goodneſs is with<g ref="char:EOLhyphen"/>out pardoning Grace,</hi> p. 44. You remember that paſſage I ſuppoſe, for I doubt not but you read our Books, as well as hear the Fa<g ref="char:EOLhyphen"/>naticks Preachments.</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>I am willing to reſign up my ſelf to your conduct, ſeeing your deſign is ſo fa<g ref="char:EOLhyphen"/>vourable
+<pb n="3" facs="tcp:41494:9"/>to my intereſt; or otherwiſe I might ſtart a ſmall objection, againſt the laſt clauſe of your Diſcourſe, That it ſeems then, that <hi>if Angels and Men had never ſinn'd, it had not been poſſible for either of them to underſtand what the goodneſs of God is.</hi> But to let that paſs, I have read in your Bibles, that God <hi>will be gracious to whom he will be gracious, and will ſhew mercy on whom he will ſhew mercy.</hi> It ſeems to me then by theſe paſſages, that not<g ref="char:EOLhyphen"/>withſtanding the graciouſneſs of Gods Na<g ref="char:EOLhyphen"/>ture, he uſes a Soveraignty in the exerciſe of Grace; and is not induced thereto by any reaſon out of himſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>I confeſs the <hi>Calviniſts</hi> make ſtrange work with ſuch paſſages: But I am of opinion, that <hi>it is a ſtrange notion of an Inde<g ref="char:EOLhyphen"/>pendent being, that he muſt have no other reaſon for what he does, but his own arbitrary will; which is ſo far from being a perfection, that it deſtroys all other perfections of his Nature,</hi> p. 402. <hi>The excellency of Chriſts Love conſiſts in this, that he loves for no Reaſon, in their ſenſe, who make him love the Perſon of a Believer, without conſidering any other Qualification, than that he is ſuch an Individual Perſon. Now I confeſs this is a wonderful Love: But wherein the excellency of a conſiſts, I cannot ſee. I am ſure we account that Man a fool, who loves at this rate; and how that ſhould come to be the perfection of the Love of God, which is a re<g ref="char:EOLunhyphen"/>proach
+<pb n="4" facs="tcp:41494:10"/>to Men, is above my apprehenſion,</hi> p. 399.</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>But I pray Sir, tell me then what other Reaſon but his own arbitrary Will, God could have for ſhewing mercy to ſinners?</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>
+                  <hi>The holineſs of a Creature, is the Reaſon why God determines his Love to any par<g ref="char:EOLhyphen"/>ticular perſon,</hi> p. 401.</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>If I be not much miſtaken, I have heard ſome ſuch paſſages read in ſome or other of your Churches Second Leſſons, That <hi>God hath choſen men before the foundation of the World, that they ſhould be holy; and that Chriſt loved the Church, and gave himſelf for it, that it ſhould be holy, and without blemiſh;</hi> which ſeems to make the holineſs of a Creature the effect, not the cauſe of Gods Love. But I have told you, I am reſolved at this time to be a Learner, and <hi>oportet diſcentem credere,</hi> The Scholar muſt believe his Maſter, is a Rule a<g ref="char:EOLhyphen"/>mong Teachers—It may be <hi>Paul</hi> was miſtaken, for I have heard ſome ſay, that he was <hi>an hot<g ref="char:EOLhyphen"/>headed Fellow;</hi> and now here's no body but our ſelves, you will excuſe my freedom in tell<g ref="char:EOLhyphen"/>ing you, that as far as I have been able to ob<g ref="char:EOLhyphen"/>ſerve, none of your <hi>Club</hi> care much for him. For their greateſt trouble in dealing with the Fanaticks, is to rid their hands well of the Al<g ref="char:EOLhyphen"/>legations out of him. But to our buſineſs, ſup<g ref="char:EOLhyphen"/>poſing your Doctrine true, I am an unholy Creature, I cannot deny it, and therefore God
+<pb n="5" facs="tcp:41494:10"/>hath no Reaſon for the determination of his love to me.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>If you be unholy, then you muſt make your ſelf holy.</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>I, but I doubt that's paſt my skill: There is a ſpiritual impotency and inability in a ſinner to do any good thing.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>Who told you ſo, Sir Satan? <hi>John Calvin,</hi> I dare ſay, <hi>or John Owen:</hi> but I hope you have more wit than to believe them.</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>No indeed, I was told ſo by St. <hi>Au<g ref="char:EOLhyphen"/>ſtin,</hi> and many a great man of your Church, Fathers and Sons. But before them all, by your <hi>Arch-Adverſary</hi> St. <hi>Paul,</hi> who ſays that <hi>ſinners are dead in treſpaſſes and ſins;</hi> and <hi>that they are created to good-works,</hi> and become <hi>new creatures,</hi> and <hi>born again,</hi> when converted.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>
+                  <hi>When they talk of our ſpiritual im<g ref="char:EOLhyphen"/>potency and inability to do any good thing, they prove it wonderfully from our being dead in treſ<g ref="char:EOLhyphen"/>paſſes and ſins, and therefore as a dead man can contribute nothing to his own reſurrection, no more can we towards our converſion: which is true of natural death, but will be hard to prove of a moral death, which conſiſts in the prevalency of vicious habits contracted by long cuſtom (which was the caſe of the Heathens, whom the Apoſtle there ſpeaks of,</hi> (and is your caſe too, Sir Satan) <hi>which do ſo enſlave the will) that it is very difficult, though not impoſſible for ſuch perſons to return to the love and practice of vertue. The other Argu<g ref="char:EOLhyphen"/>ment
+<pb n="6" facs="tcp:41494:11"/>is of the like nature, that we are ſaid to be created to good works, and to become new crea<g ref="char:EOLhyphen"/>tures, and therefore can contribute no more to it</hi> (viz. <hi>our Converſion</hi>) <hi>than we did to our firſt creation: and that we are born again, which ſignifies that we are wholly paſſive in it: which were true indeed, if our being created to good<g ref="char:EOLhyphen"/>works did ſignifie the manner and method of our converſion, and not the nature of the new crea<g ref="char:EOLhyphen"/>ture, which is the true meaning of it, that as in the firſt Creation we were created after the I<g ref="char:EOLhyphen"/>mage of God, ſo we are renewed after his Image in the ſecond; which is therefore expreſly call'd in other places the renewing and renovation of our minds,</hi> p. 109, 110, <hi>The fruitfulneſs of Gods love with reſpect to the methods of his Grace and Providence, doth not conſiſt in producing what he loves, by an omnipotent and irreſiſtible power (for then ſin and death could never have entred into the world) but he governs and doth good to his creatures in ſuch ways as are moſt ſui<g ref="char:EOLhyphen"/>table to their natures. He governs reaſenable Creatures by principles of Reaſon, as he doth the Material world by the neceſſary laws of matter, and bruit creatures by the inſtincts and propen<g ref="char:EOLhyphen"/>ſities of nature,</hi> p. 212. <hi>This I am ſure is a new diſcovery,</hi> (whatever you ſay of St. <hi>Auſtin,</hi> and the great men of our Church) <hi>that it is im<g ref="char:EOLhyphen"/>poſſible for us to do any thing that is good, but we muſt be acted like Machines, by an external force, by the irreſiſtibl power of the Grace and ſpirit of God,</hi> p. 50.</p>
+            </sp>
+            <pb n="7" facs="tcp:41494:11"/>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>I have heard your long Diſcourſe with a great deal of patience; and your mea<g ref="char:EOLhyphen"/>ning as well as I can take it up, is, that conver<g ref="char:EOLhyphen"/>ſion is an effect of <hi>moral ſuaſion,</hi> (a term of art which many of your good friends much delight to uſe, and I liſtned to hear it out of your mouth) ſo that if I do but attend to what God hath revealed of the excellency and neceſſity of Holineſs, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>ut puto Deus fio,</hi> I ſhall be holy all on a ſudden. But I am not very apt to believe this, becauſe my mind hath been a great while illuminated with ſuch Revelations, and yet I do not find my Will moved by them. As for what you object againſt ſinners being wholly paſſive in the work of Converſion, if you had to do with a Phanatick he would preſs you with this Argument; <hi>If the Image of God was received by the will in the firſt creation, without its own contribution to the production of it, why may not that Image be reſtored to it without the wills cooperation to the reſtitution?</hi> But becauſe I per<g ref="char:EOLhyphen"/>ceive you have a kindneſs for me, I will not per<g ref="char:EOLhyphen"/>ſonate any of that fooliſh troubleſome ſort of people, who can ask more Queſtions than a wiſe man can anſwer.</p>
+               <p>Well Sir, let us go on; but ſuppoſe I ſhould make my ſelf holy, yet if I be not perfectly ſuch, I am never the near to obtain my end, Gods favour and acceptance. For I well re<g ref="char:EOLhyphen"/>member there is a paſſage in the Bible, <hi>That God is of purer eyes than to behold evil,
+<pb n="8" facs="tcp:41494:12"/>and cannot look on iniquity,</hi> that is with appro<g ref="char:EOLhyphen"/>bation, (as I have heard Preachers expound it,) and you your ſelf tell me that <hi>Gods natu<g ref="char:EOLhyphen"/>ral love to holineſs, is the reaſon why he loves holy men,</hi> p. 401. And by the like reaſon ſure ho<g ref="char:EOLhyphen"/>ly Angels; whence I infer (for I have pickt up a little Logick as well as Divinity in the Schools) that perfect holinevs in the creature muſt be the reaſon of Gods natural love to it, for that only is agreeable to his holy nature.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>Nay, there you are out in your inference; for <hi>the only way to obtain the pardon of our ſins, is to repent of them, and forſake them,</hi> p. 54. <hi>God is as ready to pardon the worſt of men,</hi> (and why not the worſt of Angels) <hi>when they return to their duty, as a kind father is to receive an humble and penitent prodigal,</hi> p. 43. So that though God loves perfect holineſs beſt, yet he loves imperfect ſo well, as to pardon the defects, and accept it.</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>But God hath made me no promiſe of forgiveneſs, if I ſhould repent and forſake my ſins, and therefore I have no ground for faith or hope. And if I might credit St. <hi>Paul</hi> (which I ſhould be apt to do, but for fear of diſpleaſing you my good friend, who have put me in better hope of happineſs than ever I had ſince I loſt my place in heaven) ſinners that are without promiſe, are without hope, and conſequently without faith (for hope is an effect of faith). So that methinks your
+<pb n="9" facs="tcp:41494:12"/>plaiſter is not as broad as my ſore.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>I perceive that either you have not read my Book, or you have not well minded ſome paſſages in it, which anſwer your Ob<g ref="char:EOLhyphen"/>jection. Therein I affirm, that <hi>there is a na<g ref="char:EOLhyphen"/>tural faith</hi> [and ſo proportionably a natural hope] <hi>i. e. a belief of the principles of the na<g ref="char:EOLhyphen"/>tural Religion, which is founded upon natural demonſtration, or moral Arguments, as that God is, and that he is a rewarder of them that dili<g ref="char:EOLhyphen"/>gently ſeek him, which was the faith of</hi> Abel <hi>and</hi> Enoch, <hi>whereby they pleaſed God: For there being no mention made of the faith of</hi> Abel <hi>and</hi> Enoch <hi>in the Old Teſtament, the Apoſtle proves that they were true Believers, becauſe they had this Teſtimony, That they pleaſed God: now it is impoſſible to be ſincerely religious, or to do any ac<g ref="char:EOLhyphen"/>ceptable ſervice to God, without the belief of his Being and Providence, and care of good men. Theſe are the firſt Principles of all Religion, and God requir'd no more of thoſe good men, who had no other particular Revelations of his will,</hi> pag. 252, 253. And again—</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>Hold a little, I pray good Mr. <hi>Sherlock.</hi> I have greater things to mind, yet I cannot but gratifie my curioſity in pauſ<g ref="char:EOLhyphen"/>ing a little upon your new <hi>Genus</hi> of Faith, that it is a <hi>belief.</hi> The Schools are wont to make it <hi>an aſſent.</hi> But like enough they are miſtaken (as in an hundred things more.) And your <hi>ratio formalis</hi> of Faith is wholly new,
+<pb n="10" facs="tcp:41494:13"/>that it is natural demonſtration, and moral arguments; ſo that (as I underſtand you) one and the ſame habit is Science, Opinion and Faith. I perceive your Philoſophy as well as Divinity is quite different from theirs. But I forget my ſelf, let thoſe new notions be true or falſe, I will take them upon truſt from you for once. I will recollect the ſum of your diſcourſe, That if I have no promiſe of Gods rewarding my repentance, and forſaking of my ſin, no more had <hi>Abel</hi> and <hi>Enoch,</hi> and yet for all that they pleaſed God. And that the Principles of Natural Religion being com<g ref="char:EOLhyphen"/>mon to me and mankind as rational Crea<g ref="char:EOLhyphen"/>tures, a promiſe of rewarding my good acti<g ref="char:EOLhyphen"/>ons, though they be not ſo good as they ſhould be, if they be as good as I can afford them) is included in the very notion of Gods goodneſs. Is not this it?</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>Right; now you have hit the nail on the head. And to confirm you in your apprehenſion, I will go on where we left. <hi>The light of Nature, and the works of Creation and Providence aſſure us, that God is ſo holy, that he hath a natural love for all good men, and will not fail to reward them,</hi> p. 42. <hi>And had Chriſt never appeared in the world, yet we had reaſon to believe that God is thus good, and holy and merciful.— The appearance of Chriſt did not firſt diſcover the nature of God to us, but—confirms us in the belief of what we had learnt before from Nature,</hi> p. 34.</p>
+            </sp>
+            <pb n="11" facs="tcp:41494:13"/>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>Sir, Your Diſcourſe is very ſolid, and hath but one ſmall fault, a <hi>Contradiction</hi> to what you ſay elſewhere. <hi>Theſe men who talk of the Perſon and perſonal excellencies of Chriſt frequently without any ſence, and generally with<g ref="char:EOLhyphen"/>out any juſt ground from Scripture or reaſon, are very clamorous, and alarm the world with ſtrange jealouſies and fears, as if there were a party of men ſtarted up, who deſign to make Chriſt uſe<g ref="char:EOLhyphen"/>leſs, and to reduce Religion to its firſt natural ſtate, which knew no Prieſt, nor Sacrifice, nor Mediator. A deſign which I profeſs I am wholly a ſtranger to, as I believe all thoſe are who are ſo much charged with it; the foundation of my hope is that which is the foundation of the Chriſtian Religion, the Sacrifice and Interceſſion of our Lord Jeſus Chriſt,</hi> p. 13, 14. Pray let me ask you without offence (and I will ſpeak ſoftly that <hi>J. O.</hi> and that Fraternity may not over<g ref="char:EOLhyphen"/>hear) Is not this to make Chriſt uſeleſs, and to reduce Religion to its firſt natural ſtate, when you make no other duty neceſſary to happineſs, than what the light of Nature ſug<g ref="char:EOLhyphen"/>geſts; and no other ground needful to the hopes of it, than the goodneſs of God, which had been known as fully (as now it is) if Chriſt had never appeared in the world? This is the ſum of your Diſcourſe. I am very care<g ref="char:EOLhyphen"/>ful not to do you wrong in miſrepreſenting your ſenſe.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>Satan, you are grown ſo old, that
+<pb n="12" facs="tcp:41494:14"/>I think you begin to dote. If you had read on, you might have underſtood my mind to the full. <hi>But I doubt not, it will appear in the ſe<g ref="char:EOLhyphen"/>quel, what the ground of theſe calumnies are,</hi> viz. <hi>That we are charged with making Chriſt uſeleſs, only becauſe we dare not make his Laws and Religion ſo,</hi> p. 15.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>Methinks you are very ſhort with me. I have been always accounted a knave, but ne<g ref="char:EOLhyphen"/>ver was counted a fool before now. But as much a fool as I am, I am ſure I did you a kind<g ref="char:EOLhyphen"/>neſs in reading no further, for that addition makes you more liable to that cenſure you would avoid: For 'tis plain enough you make Chriſts Laws and Religion uſeleſs, if Natures Laws and Religion will conduct a man ſafe to the ſame place, <hi>viz.</hi> Heaven, which Chriſt di<g ref="char:EOLhyphen"/>rects him to, (for <hi>Fruſtrà fit per plura quod fie<g ref="char:EOLhyphen"/>ri poteſt per pauciora,</hi> is a rule I learned among the freſh men, that chop Logick in the Univer<g ref="char:EOLhyphen"/>ſities) and conſequently Chriſt is made uſeleſs, becauſe you dare make his Laws and Religion ſo. And elſewhere you ſay, <hi>We have no reaſon to expect any thing from the perſon of Christ, which is not contained in his Covenant, much leſs which contradicts it, for that would be in effect to renounce his mediation, and to truſt to the goodnsſs of his nature. And let any man judg, whether this be not to ſet up a new Religion, which hath no Covenant and no Promiſe,</hi> p. 23.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>I think I have little to do to ſtand and hear you prate. Farewell.</p>
+            </sp>
+            <pb n="13" facs="tcp:41494:14"/>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>Good Mr. <hi>Sherlock</hi> be not ſo hot. Pray let me find that what you want in <hi>Grace,</hi> you have in <hi>Vertue.</hi> Do not run away in a Pet, before you have finiſhed your deſign. You muſt not ſuppoſe I oppoſe you <hi>ex animo,</hi> but <hi>argumentandi gratiâ;</hi> and to give you an op<g ref="char:EOLhyphen"/>portunity of ſhewing your dexterity in looſ<g ref="char:EOLhyphen"/>ning the knots I tye.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>You might have told me ſo at firſt then, and then you might have eſcaped an hard cenſure. I will go on. Your great Objection was, That the Gentiles who were without promiſe, were <hi>eo nomine</hi> in that very reſpect without hope. To that I anſwer, <hi>When God choſe the poſterity of</hi> Abraham <hi>to be his pecu<g ref="char:EOLhyphen"/>liar people he did not deſign to exclude the reſt of the world from his care and providence and all po<g ref="char:EOLhyphen"/>ſſible means of ſalvation, as the Apoſtle argues in</hi> Rom. 3.29, Is he the God of the Jews only? is he not alſo of the Gentiles? yes of the Gen<g ref="char:EOLhyphen"/>tiles alſo? <hi>Which argument if it have any force in it, muſt prove Gods reſpect to the Gentiles be<g ref="char:EOLhyphen"/>fore the preaching of the Goſpel, as well as ſince, becauſe it is founded on that natural relation God owns to all mankind, as their merciful Crea<g ref="char:EOLhyphen"/>tor and Governour, which gives the Gentiles as well as the Jews an intereſt in his care and pro<g ref="char:EOLhyphen"/>vidence. This plainly evinces, that all theſe par<g ref="char:EOLhyphen"/>ticular favours, which God beſtowed on</hi> Iſrael, <hi>were not owing to any partial fondneſs and re<g ref="char:EOLhyphen"/>ſpect to that people, but the deſign of all was to
+<pb n="14" facs="tcp:41494:15"/>encourage the whole world to worſhip the God of</hi> Iſrael, <hi>who gave ſo many demonſtrations of his Power and Providence,</hi> p. 27.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>If I underſtand you aright, your meaning is, that the Gentiles before the prea<g ref="char:EOLhyphen"/>ching of the Goſpel, as well as ſince, had all poſſible means of Salvation, and as much ground for hope of it as the <hi>Jews,</hi> becauſe God was their common merciful Creator and Governour. And therefore loved them all a<g ref="char:EOLhyphen"/>like. And hence you would direct me to con<g ref="char:EOLhyphen"/>clude (as well I may, if the premiſes be true) that God being the common merciful Crea<g ref="char:EOLhyphen"/>tor and Governour of Angels and Men, there<g ref="char:EOLhyphen"/>fore I have all poſſble means of Salvation, and ſufficient ground to hope for it as well as men. If this be not the force of your Argu<g ref="char:EOLhyphen"/>ment, I will forgive your hard cenſure, and think I begin to dote indeed. But methinks the premiſes are liable to exception. I might ask you, Sir, where were any <hi>Jews</hi> and Gen<g ref="char:EOLhyphen"/>tiles before the preaching of the Goſpel? for I always apprehended that the Goſpel was preached to <hi>Adam</hi> and <hi>Eve</hi> before they did <hi>operam dare ad liberos procreandos,</hi> before they had any conjugall Society (you ſee as old as I am, I have not forgotten all my <hi>Latin</hi>) in thoſe words, <hi>I will put enmity between thee and the wo<g ref="char:EOLhyphen"/>man, and between thy ſeed and her ſeed; it ſhall bruiſe thy head, and thou ſhalt bruiſe his heel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>I have obviated this Objection in
+<pb n="15" facs="tcp:41494:15"/>my reply to a like inſtance of the promiſe made to <hi>Abraham; In thy ſeed ſhall all the na<g ref="char:EOLhyphen"/>tions of the earth be bleſſed.</hi> To which my anſwer is, <hi>Chriſt was indeed the material object of</hi> Abrahams <hi>Faith, that is, he believed that pro<g ref="char:EOLhyphen"/>miſe which God made of ſending Chriſt into the World. But</hi> Abrahams <hi>Faith was not a Faith in Chriſt; no Man could believe in Chriſt, till he came, that is, could not believe any thing upon his Authority, which is the true notion of be<g ref="char:EOLhyphen"/>lieving in him.</hi> p. 247.</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>The application I find eaſie; That the promiſe made to <hi>Adam,</hi> was of Chriſt that ſhould be a Saviour Four thouſand years after; not that ſhould be a Saviour to him<g ref="char:EOLhyphen"/>ſelf, and Wife, and their immediate Seed. They were to be ſaved by <hi>a belief</hi> (not in Chriſt, but) <hi>of the Principles of the Natural Religion, founded upon Natural Demonſtration, or moral Arguments, as that God is, and that he is a Rewarder of them that diligently ſeek him, which was the faith of</hi> Abel <hi>and</hi> Enoch, <hi>whereby they pleaſed God</hi> (as you told me be<g ref="char:EOLhyphen"/>fore).</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>You have repreſented my Opini<g ref="char:EOLhyphen"/>on in my own words; and I like that very well.</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>I thought I would pleaſe you if I could, and put you in a good humour againſt I make ſome more objections. And but that you ſtart ſo many Hares at once, that I am a<g ref="char:EOLhyphen"/>fraid
+<pb n="16" facs="tcp:41494:16"/>by running after all, to loſe all; I could pleaſe you better, by putting you in mind, that as to theſe Words of God to <hi>Eve,</hi> a very good Friend of yours, <hi>Valentinus Smalcius,</hi> whom a Learned <hi>Calviniſt</hi> calls, <hi>inſignis illefidei Socinianae hyperaſpiſtes,</hi> the Champion of ſocinianiſm, does boldly affirm, <hi>Chriſtum minime reſpexiſſe, nec ali<g ref="char:EOLhyphen"/>quid in ſe promiſſionis Evangelicae continuiſſe;</hi> They had no reſpect to Chriſt, nor did they contain in them any Goſpel promiſe <hi>Refut. Theſ. Frant<g ref="char:EOLhyphen"/>zii,</hi> p. 94. But I will go on; The <hi>Calviniſts</hi> will object againſt your Logick in the Text now cited, <hi>Rom.</hi> 3.29. and tell you, that not the Relation which God as a Creator ſtands in to Jews and Gentiles, but as a Covenanter with <hi>Abraham</hi> on the behalf of both, is given as the Reaſon why both ſhould be juſtified by Faith, and not one only.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>This Objection —</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>Hold Sir, never give your ſelf the trouble of anſwering it: It was a diſparage<g ref="char:EOLhyphen"/>ment to <hi>Domitian,</hi> to employ himſelf in catch<g ref="char:EOLhyphen"/>ing and killing Flies. And in my mind you did diſcreetly in not anſwering <hi>E. P. H. H.</hi> and that Pert Man that called you <hi>Dirty-Fel<g ref="char:EOLhyphen"/>low</hi> in the Title of his Book; for ſo <hi>Anti-ſoz<g ref="char:EOLhyphen"/>zo</hi> ſignifies (whether you know it or no). And it had not been amiſs, if you had let <hi>J. O.</hi> and <hi>R. F.</hi> alone too; for none of them all were your match: The moſt that can be ſaid of them is, <hi>never was any Brazen Serpent half ſo ſubtil,</hi> p. 113.</p>
+            </sp>
+            <pb n="17" facs="tcp:41494:16"/>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>I am not of your opinion, That I had better have let all my Antagoniſts alone; for then they would have ſaid, that I did not anſwer them, becauſe I could not.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>You have little to do ſure, to mind what they ſay. To end this Chat, pray eaſe me of this Objection againſt Gods loving all his Creatures alike, That I find God hates me, and therefore will never love me, for his hatred is (like himſelf) immutable.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>To the Fanaticks fancy, that when God once loves them he will never hate them, becauſe his love is (like himſelf) immutable, I have anſwer'd: <hi>Herein the immutability and unchangeableneſs of Gods love conſiſts, not that he always loves the ſame perſon, but that he always loves for the ſame reaſon; for it is no perfection to be ſo ſixt in our kindneſs, that where we love once, we will always love, what<g ref="char:EOLhyphen"/>ever reaſon there may be to alter our affection: for by this means we may love undeſerving ob<g ref="char:EOLhyphen"/>jects, which is the greateſt degeneracy of love; but the perfection of love conſiſts in loving deſer<g ref="char:EOLhyphen"/>ving objects, and in loving upon honourable rea<g ref="char:EOLhyphen"/>ſons; and the immutability of love conſiſts in lo<g ref="char:EOLhyphen"/>ving always for the ſame reaſon, which is the only foundation of vertuous immutability,</hi> pag. 404, 405. Thou art not ſo dull, but thou canſt apply all this to thy ſatisfaction.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>I apprehend your meaning well e<g ref="char:EOLhyphen"/>nough, that there is <hi>par ratio</hi> (as your School<g ref="char:EOLhyphen"/>term
+<pb n="18" facs="tcp:41494:17"/>is) of Gods love and hatred. And there<g ref="char:EOLhyphen"/>fore therein the immutability of Gods hatred conſiſts, not that he always hates the ſame perſon, but that he always hates for the ſame reaſon. For it is no perfection to be ſo fixt in our unkindneſs, that where we hate once we will always hate, whatever reaſon there may be to alter our affections; for by this means we may hate undeſerving Objects, which is the greateſt degeneracy of hatred, <hi>&amp;c.</hi> In ſhort, your meaning is, that God hates me for this reaſon, becauſe I am bad, but he would love me if I were good, and I ſhould then as well <hi>deſerve his love,</hi> as I do now his hatred.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>I ſee you have not your name <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, knowing, for nought, you have wit e<g ref="char:EOLhyphen"/>nough if you will but make a good uſe of it.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>I am beholding to you Sir, for your good word. And I promiſe you I will not be wanting to my own intereſt. The notion you have laſt given me does me a great kindneſs. For I have been hitherto ſo ſimple (though you are pleaſed to commend my wit) as to think that Love and Hatred when aſcribed to God, in the <hi>Calviniſts</hi> notion, which you decry, did import an eternal Decree or Will of God, to ſhew or deny mercy to his Crea<g ref="char:EOLhyphen"/>tures, and ſo were <hi>immutable:</hi> but now I underſtand that they ſignifie variable affecti<g ref="char:EOLhyphen"/>ons (as in the Creatures) which as the Wea<g ref="char:EOLhyphen"/>ther-cock,
+<pb n="19" facs="tcp:41494:17"/>ſhifts its corner with the wnd, al<g ref="char:EOLhyphen"/>ter with the perſons upon whom they are placed. And I am now rid of a fear, which the mention of <hi>Elect-Angels</hi> in the Scripture did often put me into. I ſee nothing to the contrary but I may in good time be one of that <hi>denomination.</hi> If I can but bring down my ſtout ſtomach, to ask God forgiveneſs, and repent of ſo long continued diſloyalty, and take a new Oath of Allegiance, I under<g ref="char:EOLhyphen"/>ſtand I need not doubt the iſſue, God will love me, as much as now he hates me.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>'Tis a great mater to be freed from prejudice or prepoſſeſſion of judgment. You have often heard <hi>Calviniſts</hi> preach, and been dabling in their writings: and have found them confident enough in their aſſer<g ref="char:EOLhyphen"/>tions, and (as I gather from your words) been miſlead into a conceit, (which they put into your head) that becauſe it could not be known how juſt and ſevere God is, but by puniſhing ſin, nor how good and gracious God is, but by pardoning it, therefore God de<g ref="char:EOLhyphen"/>crees that men ſhall ſin, that he may make ſome of them veſſels of his wrath, and others the veſſels of his mercy.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>I muſt confeſs, <hi>The ſound and clink of words and phraſes (which you ſay is all the Calviniſts underſtand by keeping a form of ſound words,</hi> p. 102.) did ſo fill my ears, that I could hear nothing elſe. And becauſe they
+<pb n="20" facs="tcp:41494:18"/>were Scripture-words and phraſes, they kept me in ſome awe, that I durſt not abſolutely conclude them a ſound without ſenſe.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>I, but <hi>nature would teach us, that ſo good a God had much rather be glorious in the happineſs and perfection, and obedience of his creatures, than in their ſin and miſery,</hi> p. 51, 52. <hi>For vindictive juſtice, and pardoning mercy are but ſecondary Attributes of the Divine Nature, and therefore God cannot primarily deſign the glorifying of them; for that cannot be without primarily deſigning the ſin and miſery of his creatures, which would be inconſiſtent with the goodneſs and holineſs of his nature,</hi> p. 52, 53.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>I know your meaning very well, that there is in God an <hi>Antecedent will,</hi> where<g ref="char:EOLhyphen"/>by he willeth ſome things in the <hi>firſt</hi> place, and <hi>directly;</hi> and a <hi>Conſequent will,</hi> whereby he willeth other things in the <hi>ſecond</hi> place, or by <hi>conſequence:</hi> thus whatſoever is good in it ſelf, as the repentance and ſalvation of a ſin<g ref="char:EOLhyphen"/>ner, God wills by his <hi>Antecedent will;</hi> but whatſoever in it ſelf is not evil, but evil to the reaſonable Creature which muſt ſuffer it, as death, damnation, God willeth only by his <hi>Conſequent Will.</hi> The Objections of the <hi>Calviniſts</hi> ſhall not give me any trouble, That God wills that which never comes to paſs, and which he knows will not, when he wills it by that <hi>Antecedent Will.</hi> This is enough for my comfort, that my repentance and ſalvati<g ref="char:EOLhyphen"/>on
+<pb n="21" facs="tcp:41494:18"/>being things good in themſelves, God wills them in the firſt place, and directly; my damnation he wills but in the ſecond place, and by conſequence. God is ſo good, that he had much rather be glorious in my happineſs, (who am one of his Creatures, though I have loſt it through my own de<g ref="char:EOLhyphen"/>fault), than in my miſery. And though Saint <hi>Paul</hi> ſeems to be of another mind, yet I will remember, that <hi>Theſe men fetch all their myſte<g ref="char:EOLhyphen"/>rious Divinity out of ſome obſcure paſſages of</hi> St. Pauls <hi>Epiſtles, notwithſtanding what St.</hi> Peter <hi>told us of St.</hi> Pauls <hi>Epiſtles,</hi> 2 Pet. 3.16, <hi>and make them the foundation of their faith,</hi> p. 242. Sir, I have given you a great trouble; I have but two or three Objections more. If God loves all his Creatures alike, becauſe he is their common Creator, then there is no need of a Saviour, the want of which was alway my greateſt diſcouragement; I have often heard that the Son of God took not upon him the nature of Angels, but the ſeed of <hi>Abraham,</hi> and that neglect of our nature, made my caſe deſperate in my own apprehen<g ref="char:EOLhyphen"/>ſion.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>To this I anſwer two things:</p>
+               <p n="1">1. <hi>That the only knowledg neceſſary to the purpoſes of Religion is ſuch a knowledg of Gods nature and will, as is ſufficient to direct our acti<g ref="char:EOLhyphen"/>ons, and encourage our obedience,</hi> p. 33. <hi>Various ways God attempted for the recovery of mankind,
+<pb n="22" facs="tcp:41494:19"/>but with little ſucceſs; at laſt God ſent his own Son our Lord Jeſus Christ into the world to be the great Shepherd and Biſhop of ſouls, to ſeek and to ſave that which was loſt,</hi> p. 89. <hi>God hath now committed unto Chriſt all the ſecret purpoſes of his Counſel concerning the ſalvation of man<g ref="char:EOLhyphen"/>kind, which were concealed from ages,</hi> p. 30.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>I perceive you ſpeak cautiouſly to prevent ſcandal; but I undrſtand you not, unleſs you mean that the knowledg of a Sa<g ref="char:EOLhyphen"/>viour was concealed from the world till Chriſt came in the fleſh, (which was not till the World was about four thouſand years old) and the reaſon of that concealment was, be<g ref="char:EOLhyphen"/>cauſe the knowledg of God in Chriſt, was not abſolutely neceſſary to the purpoſes of Reli<g ref="char:EOLhyphen"/>gion (whereof eternal Salvation is not the leaſt conſiderable.) And if the knowledg of a Saviour, be not abſolutely neceſſary, then not a Saviour himſelf; for he gives ſalvation, by giving the knowledg of Salvation; and it is Eternal life to know Jeſus Chriſt (if Chriſt himſelf or his Prophets deſerve any credit.) And now we are under the Roſe, I will tell you truly, that I believe all your talk of a Sa<g ref="char:EOLhyphen"/>viour is but a Copy of your Countenance. For if the World was ſaved for ſo long time without a Saviour, why may it not for the remainder of its duration, be it more or leſs? And this I confeſs is no ſmall Cordial to my dying hopes. But let me ask you one Queſti<g ref="char:EOLhyphen"/>on,
+<pb n="23" facs="tcp:41494:19"/>If a Saviour be of no greater moment in the purpoſes of Religion, why does the Scri<g ref="char:EOLhyphen"/>pture call the contrivement of mans Salvati<g ref="char:EOLhyphen"/>on by a Saviour, <hi>the wiſdom of God?</hi> I had thought the reaſon had been, becauſe there was no other means of Salvation but this, which he alone did and could find out.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>You are groſly miſtaken. <hi>For if juſtice be ſo natural to God, that nothing can ſa<g ref="char:EOLhyphen"/>tisfie him but the death of his Son, the Redem<g ref="char:EOLhyphen"/>ption of the World by Chriſt may diſcover his ju<g ref="char:EOLhyphen"/>ſtice or goodneſs, but not his wiſdom; for wiſ<g ref="char:EOLhyphen"/>dom conſiſts in the choice of the beſt and fitteſt means to attain an end, when there are more ways than one of doing it;</hi> p. 48. I grant indeed <hi>that no doubt but the Goſpel of Chriſt makes great and glorious diſcoveries of the wiſdom of God,</hi> Ib. and I have told you wherein before, <hi>In that he ſent his own ſon,</hi> &amp;c. <hi>when he had at<g ref="char:EOLhyphen"/>tempted various ways before with little ſucceſs</hi> for the recovery of mankind, p. 89.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>I pray proceed to your ſecond head.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>That ſuppoſing a Saviour of ab<g ref="char:EOLhyphen"/>ſolute neceſſity to your ſalvation, you need not abſolutely deſpair of one: <hi>When we con<g ref="char:EOLhyphen"/>ſider that this Heavenly Embaſſador and Medi<g ref="char:EOLhyphen"/>ator, is no leſs than the eternal Son of God, by whom the Worlds were made, we may reaſanably conclude, that he came upon no leſs deſign than of univerſal goodneſs: for he can have no temptation to partiality, as being equally concerned in the
+<pb n="24" facs="tcp:41494:20"/>happineſs of all men; and we cannot imagin why he ſhould lay a narrower deſign of love in the Re<g ref="char:EOLhyphen"/>demption, than in the Creation of Mankind; that when in the firſt he deſigned all men for hap<g ref="char:EOLhyphen"/>pineſs, in this new and ſecond Creation he ſhould deſign and intend the happineſs only of ſome few,</hi> p. 82, 83.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>I ſee the force of your Argumenta<g ref="char:EOLhyphen"/>tion, That the eternal Son of God being my Creator, as well as mans, I may reaſonably conclude he came upon no leſs deſign than of univerſal goodneſs to me as well as men. For ſeeing he deſigned me for happineſs, as well as mankind in the firſt Creation, why ſhould he deſign their happineſs only, and not mine in the new and ſecond Creation? For he as our common Creator can have no temptation to partiality, as being equally concerned in the happineſs of all his reaſonable Creatures, Angels and Men. The ſmaller Exceptions a<g ref="char:EOLhyphen"/>gainſt this Argumentation muſt give way to a greater. That you told me before, that none <hi>could believe in Chriſt till he came,</hi> p. 247. Now I underſtand not why they could not, if he was the eternal Son of God, by whom the World was made. For then he was pre-exi<g ref="char:EOLhyphen"/>ſtent; and being God, they that lived before he came in the fleſh, wanted not the <hi>Ratio Formalis</hi> of Divine Faith, the Authorety of God revealing. But I preſume you mean, that Chriſt was from eternity decreed to be the Son
+<pb n="25" facs="tcp:41494:20"/>of God in time, <hi>non Deus natus, ſed factitius</hi> not God by nature but deputation, as you know who ſays, and who added in a ſcoff, <hi>mirum quod non ſubſtituiſſet, fictitius.</hi> I wonder he did not ſay an imaginary God, <hi>Prid. Lect.</hi> 18.) And that the World made by him was <hi>non quem videmus, ſed quem expectamus,</hi> not the world which we ſee, but a ſettlement of the Goſpel-Diſpenſation. And now I think on it, it comes much to one for my comfort, ſeeing he was ſent by our common Creator, who can have no temptation to partiality, in ſending Chriſt for men only, and not for Angels, as being equally concerned in all our happineſs. To diſ<g ref="char:EOLhyphen"/>miſs this; There is one obvious Objection againſt my inference, of your own ſuggeſtion, <hi>The Son of God was made a man as we are, which argues a good will and kindneſs to humane nature,</hi> p. 81, 82. But I think, I can anſwer it my ſelf, that the Son of Gods admitting an innumera<g ref="char:EOLhyphen"/>ble company of my fellow-Angels to attend upon him as Mediator, argues a good will and kindneſs to Angelical nature. There is ano<g ref="char:EOLhyphen"/>ther too, which I will not now put you to anſwer (having given you ſo great a trouble already) but will conſider of it by my ſelf. The Objection is this, that 'tis no partiality for the Son of God, though he hath taken the nature common to mankind, to ſave as few as he pleaſe, for partiality or reſpect of perſons hath no place in granting largeſſes, or
+<pb n="26" facs="tcp:41494:21"/>beſtowing donatives. And if ſo, 'tis no parti<g ref="char:EOLhyphen"/>ality to ſave mankind, and leave me to the ruin I have brought upon my ſelf. It is the <hi>Cal<g ref="char:EOLhyphen"/>viniſts</hi> anſwer to your great Argument for univerſal Redemption, and it leaves ſome ſcruple upon my mind. Upon the whole of your diſcourſe, I perceive I ſlipt my time (for want of due information) of regaining the love of God without a Saviour, for that I might have done any time before he came in the fleſh; <hi>for no man (nor Angel) could be<g ref="char:EOLhyphen"/>lieve in Chriſt till he came:</hi> But that time is gone and paſt, and cannot be recall'd. I muſt now for my comfort conſider what he hath done, and ſuffer'd, and how the benefit of both may redound to me. Firſt then I conſi<g ref="char:EOLhyphen"/>der, that his active righteouſneſs muſt be im<g ref="char:EOLhyphen"/>puted to me ſo far as it is a conformity to that law of Nature which is common to me and mankind.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>This <hi>makes Chriſt ſuitable to the wants of a ſinner indeed, that he ha<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> a righte<g ref="char:EOLhyphen"/>ouſneſs for him which God infinitely prefers be<g ref="char:EOLhyphen"/>fore any home-ſpun righteouſneſs of his own. This is a very comfortable notion for bad men, and ſuch as I would not part with for all the world, did I reſolve to live wickedly, and yet intend to get to heaven,</hi> p. 234.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>What Sir, do you jeer?</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>I tell you, that <hi>Abraham and all the good men of old, never heard of the righteouſ<g ref="char:EOLhyphen"/>neſs of Chriſt imputed to us,</hi> p. 256.</p>
+            </sp>
+            <pb n="27" facs="tcp:41494:21"/>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>No, I ſee St. <hi>Paul</hi> is a man of no credit with you. He ſays that <hi>Abraham</hi> had a <hi>righteouſneſs without works imputed to him.</hi> That could not be his own righteouſneſs, for that were <hi>contradictio in adjecto,</hi> to ſay he had a righteouſneſs of his own, without works of his own (as your Schools ſay) (righteouſneſs reſulting from the conformity of works to a Law.) It muſt therefore be the righteouſneſs of another, and who that other ſhould be, but <hi>Chriſt,</hi> I cannot tell; but I would be glad to learn.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>
+                  <hi>The great diſpute in the Epiſtle to the Romans is, whether we muſt be juſtified by the Law of Moſes, or by the faith of Chriſt,</hi> i. e. <hi>whe<g ref="char:EOLhyphen"/>ther the obſervation of all the external rites and ceremonies of the Law, and an external conformi<g ref="char:EOLhyphen"/>ty of our actions to the moral precepts of it, will ju<g ref="char:EOLhyphen"/>ſtifie a man before God, or that fincere and univer<g ref="char:EOLhyphen"/>ſal obedience which the Law requires,</hi> p. 245.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>One would think that it had been unqueſtionable, that <hi>Abrahaus</hi> could not have had whereof to glory, if he had been juſtified by an external conformity to the Ceremonial and Moral precepts of the Law. But I perceive one may live and learn. But though there is no need of a Saviour, as to any active righteouſ<g ref="char:EOLhyphen"/>neſs of his to be imputed to ſinners; yet I pre<g ref="char:EOLhyphen"/>ſume there is need of one to die as a <hi>ſurety</hi> in their ſtead and place.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>When <hi>Chriſt died for us, he died
+<pb n="28" facs="tcp:41494:22"/>not as a ſurely,</hi> p. 290. <hi>The Socinians have no reaſon to be afraid of ſuch Adverſaries, who have no better way to defend the ſatisfaction of Chriſt, than by the notion of ſuretiſhip,</hi> p. 291.</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>'Tis well <hi>J. O.</hi> that parlous man is not within hearing. What? will you acknow<g ref="char:EOLhyphen"/>ledg the <hi>Socinians</hi> ſtand on the vantage ground, when <hi>Chriſtians</hi> defend the ſatisfaction of Chriſt by the notion of ſuretiſhip? I am apt to think they cannot defend it by any other noti<g ref="char:EOLhyphen"/>on, the ſum whereof is (as I warrant you <hi>J. O. T. J.</hi> and all the letters of the Alphabet will tell you) that <hi>Chriſt put himſelf into the ſtead of ſinners to ſuffer what they ſhould have ſuffer'd; upon which God makes over Chriſts ſatisfaction to them.</hi> And they will take for their warrant that place, where Chriſt is call'd <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>The ſuerty of the Covenant.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>I confeſs I do not like to be call'd a <hi>Socinian,</hi> becauſe that name does <hi>male audire,</hi> ſome ill in the Church of <hi>England.</hi> And I reckon my ſelf therefore much beholden to my two Brethren, whereof one tacitly by an <hi>Impri<g ref="char:EOLhyphen"/>matur,</hi> and the other by expreſs words, vindi<g ref="char:EOLhyphen"/>cated me from the imputation of Hereſie, and particularly of being tainted with <hi>Cracovian</hi> Divinity. But let <hi>J. O. T. J.</hi> and who will beſides pleaſe themſelves with their own no<g ref="char:EOLhyphen"/>tion of ſuertiſhip; I ſay, <hi>To be a ſurety of the Covenant ſignifies no more than to confirm and ratifie this Covenant, and to undertake for the
+<pb n="29" facs="tcp:41494:22"/>performance of it, that all the promiſes of the Covenant ſhall be made good upon ſuch terms and conditions as are annexed to them,</hi> p. 289.</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>Then it ſeems Chriſt is but Gods ſurety to man; that he will be as gsood as his word: but I ſhould think that notion of ſure<g ref="char:EOLhyphen"/>tiſhip were out of doors, by the grounds you laid down a while ſince. For if the <hi>light of na<g ref="char:EOLhyphen"/>ture aſſures ſinners, that God is ſo good that he hath a natural love for all good men, and will not fail to reward them, though he never made them a promiſe,</hi> p. 42, 43. Methinks it may aſſure them too, that God is ſo faithful that he will not break his promiſe when he hath made it. And it may ſeem, that as to the confirmation of the Covenant of God with man (whatever your ſentiments are of Chriſts God-head) Chriſt needed not to have been God, for whatever aſſurance can be gathered from the <hi>undertakers</hi> being God, is afforded us in the <hi>promiſers</hi> being ſo. And in fine, Chriſt is no ſurety at all; and ſo we need not diſpute a<g ref="char:EOLhyphen"/>bout our intereſt in him: for as far as I can perceive by your principles, that ſinners might have been ſaved, if he had never died for them; and they may be damned, though he hath. And now I am prevented in my en<g ref="char:EOLhyphen"/>quiry how the benefit of what Chriſt hath done and ſuffered, might redound to me. I had thought to have asked what <hi>Faith</hi> is re<g ref="char:EOLhyphen"/>quiſite to the participation of the benefits of
+<pb n="30" facs="tcp:41494:23"/>Chriſts righteouſneſs; and what <hi>
+                     <g ref="char:V">Ʋ</g>nion</hi> re<g ref="char:EOLhyphen"/>ſults from that Faith whereby his righteouſ<g ref="char:EOLhyphen"/>neſs, and its effects become a ſinners.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>You miſtake the matter, you may enquire, and I will ſatisfy you about the na<g ref="char:EOLhyphen"/>ture of Faith, and the Union thence reſulting. For as haſty as you are in your cenſure of my making Chriſt uſeleſs (which I ſhould take very hainouſly, but that I think you do but perſonate the <hi>Fan's</hi>): I will tell you, <hi>The death of Chriſt upon the croſs, aſſures us what the merit is, and what the portion of ſin ſhall be; that all ſinners deſerve to die, and ſhall certain<g ref="char:EOLhyphen"/>ly have their deſerts, without a ſincere repentance and reformation of their lives: for to expiate ſin by death can ſignifie no leſs than this, that death is the proper recompence of ſin.</hi> p. 92.</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>A goodly end of Chriſts death, would <hi>J. O.</hi> ſay, were he within hearing, which hath been and may be otherwiſe obtain<g ref="char:EOLhyphen"/>ed. The light of nature, [or natural notions of Gods juſtice] and works of Providence [Gods judgments upon the wicked] would aſ<g ref="char:EOLhyphen"/>ſure men of the merit of ſin, and what the portion of ſin ſhould be, without ſincere re<g ref="char:EOLhyphen"/>pentance and reformation [and with it too] as well as aſſure them (which you have often told me) of Gods readineſs to pardon upon repen<g ref="char:EOLhyphen"/>tance and reformation.</p>
+               <p>Again, <hi>J. O.</hi> would ſay, that the death of Chriſt would not aſſure us, that death is the re<g ref="char:EOLhyphen"/>compence
+<pb n="31" facs="tcp:41494:23"/>of ſin; unleſs Chriſts death was the puniſhment of ſin, which if it was, it muſt be of mans ſin (for he had none of his own) and then Chriſt died as a <hi>ſurety</hi> in the ſinners ſtead (a notion which <hi>J. O.</hi> embraces, and <hi>W. S.</hi> rejects), and ſo you have brought your hogs to a fair market indeed.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>In <hi>verbo ſacerdotis,</hi> on the word of a Prieſt, I think you are turned Fanatick.</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>You have granted one uſe of Chriſts death [which will ſerve my turn] as for the other, I preſume it was <hi>Lapſus linguae,</hi> a ſlip of your tongue; but the hopes you give me with one hand, you take away with the other, when you tell me, <hi>The Sacrifice of his death extends no farther than the example of his life; he was made manifeſt to deſtroy ſin, and in him was no ſin,</hi> p. 93. It ſeems then that Chriſt died only for thoſe in whom was no ſin at all. And then I am too ſure Chriſt died not for me: but one comfort then is, that neither died he for any body elſe.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>I explain my meaning well enough, when I ſay, that <hi>Conſidering how holy our Prieſt and Sacrifice was, we cannot reaſonably conceive that he died, or that he interceded for incorrigible ſinners,</hi> p. 93,</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>All that I can gather from thence for explication, is, that we cannot reaſonably conceive that he died for any ſinners, unleſs he were a ſinner himſelf, (though not incor<g ref="char:EOLhyphen"/>rigible)
+<pb n="32" facs="tcp:41494:24"/>for otherwiſe the Sacrifice of his death would extend farther then the example of his life. He that was no ſinner, would die for them that were ſinners. To leave this to further conſideration, pray tell me what uſe you aſſign to Chriſts active obe<g ref="char:EOLhyphen"/>dience?</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>
+                  <hi>Though the pardon of our ſins, and our juſtification, be attributed to the blood of Chriſt, yet I could never perſwade my ſelf, that this wholly excludes the perfect obedience and righteouſneſs of his life,</hi> p. 330.</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>Very good; now <hi>J. O.</hi> and you are very good friends, for he could never per<g ref="char:EOLhyphen"/>ſwade himſelf ſo neither.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>'Tis not good manners to inter<g ref="char:EOLhyphen"/>rupt me; <hi>J.O.</hi> and I are far enough from be<g ref="char:EOLhyphen"/>ing good friends: <hi>For the Aqoſtle tell us, That we are accepted in the Beloved,</hi> Eph. 1.6.</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>That very plaee <hi>J. O.</hi> brings for his own juſtification, in being always of your per<g ref="char:EOLhyphen"/>ſwaſion in this point.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>You are very unmannerly me<g ref="char:EOLhyphen"/>thinks.</p>
+            </sp>
+            <sp>
+               <speaker>Satan,</speaker>
+               <p>Excuſe me Sir, I am afraid you ſhould forget your ſelf, and ſay as <hi>J. O.</hi> ſays, unawares.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>Never fear that, but hear me out. <hi>And I think no man will deny that God was very highly pleaſed with the perfect obedience of our Saviours life,</hi> p. 330, 331.</p>
+            </sp>
+            <pb n="33" facs="tcp:41494:24"/>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>No, I dare ſay, not <hi>Socinus</hi> himſelf. Enough, enough, I ſee what you would be at. Chriſt by his obedience <hi>ſatisfecit voluntati divi<g ref="char:EOLhyphen"/>nae non juſtitiae,</hi> i. e. ſatisfied Gods will, not his juſtice. I am paſt doubt now that <hi>J.O.</hi> and <hi>W.S.</hi> are not like to be very good friends in haſte.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>
+                  <hi>Verbum ſat ſapienti,</hi> A word is e<g ref="char:EOLhyphen"/>nough to the wiſe. Now to anſwer your Que<g ref="char:EOLhyphen"/>ries, which too haſtily you concluded you were prevented in. I will tell you what Faith is not requiſite to the participation of the benefits of Chriſts Righteouſneſs. <hi>There is not a plainer Argument how apt men are to pervert the Scrip<g ref="char:EOLhyphen"/>tures, to reconcile them to their own prejudices and preconceived Opinions, than to obſerve what work they make with</hi> Abrahams <hi>Faith; as if that Faith which was imputed to him for righte<g ref="char:EOLhyphen"/>ouſneſs, were a fiducial reliance and recumbency on Chriſt for ſalvation, upon which the righte<g ref="char:EOLhyphen"/>ouſneſs of Chriſt apprehended by Faith was im<g ref="char:EOLhyphen"/>puted to him,</hi> p. 247.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>If <hi>Abrahams</hi> Faith was not a fiducial reliance and recumbency on Chriſt for Salvati<g ref="char:EOLhyphen"/>on, then to be ſure, nor any of his Childrens. For they walk in his ſteps, and imitate his Ex<g ref="char:EOLhyphen"/>ample. But pray, what Faith is requiſite to make Chriſt our Saviour, ſeeing a Saviour you will have him to be? I care not if I hear you out.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>
+                  <hi>Our Faith in Chriſt muſt ſignifie ſuch a ſtedfaſt belief of all thoſe revelations
+<pb n="34" facs="tcp:41494:25"/>which Chriſt both made to the World, as governs our lives and actions,</hi> p. 255.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>Then I perceive I am one half of a Believer already; for I ſtedfaſtly believe all thoſe Revelations which Chriſt hath made to the World: and I am not without hopes of being the other half in good time, of having my life and actions governed by my Belief.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>You have no cauſe of deſpair: for beſides (what I have told you already, that <hi>God produces not what he loves, by an Omnipo<g ref="char:EOLhyphen"/>tent Power, but does good to his Creatures in ſuch a way as is ſuitable to their natures), Righ<g ref="char:EOLhyphen"/>teouſneſs is called a gift, becauſe it is not owing ſolely to humane endeavours, but is wrought in us by ſupernatural means, by thoſe powerful ar<g ref="char:EOLhyphen"/>guments and motives, and divine aſſiſtances which God in infinite love and goodneſs has afforded the world by Jeſus Chriſt,</hi> p. 335.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>I underſtand you right well, That Righteouſneſs [or the good government of life and actions] is called Gods gift, becauſe he gives one <hi>half,</hi> (but hardly the <hi>better half</hi> would a <hi>Fanatick</hi> ſay), <hi>the arguments and mo<g ref="char:EOLhyphen"/>tives</hi> which are very <hi>powerful [in genere mo<g ref="char:EOLhyphen"/>rali]</hi> to induce the world to make it ſelf-righ<g ref="char:EOLhyphen"/>teous; and them you call <hi>divine aſſiſtances,</hi> be<g ref="char:EOLhyphen"/>cauſe God aſſiſts the World by them, that is, by thoſe Arguments and Motives perſwades men to uſe the power they have; for to give them any power they wanted, were for God
+<pb n="35" facs="tcp:41494:25"/>
+                  <hi>to produce what he loves by an Omnipotent Power [in genere Phyſico.]</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>There's no need of any Omnipo<g ref="char:EOLhyphen"/>tent Power in the <hi>Fanatick</hi> ſenſe; For <hi>that righteouſneſs which Go<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>equires under the Goſ<g ref="char:EOLhyphen"/>pel, muſt be an inward principle of love and obedi<g ref="char:EOLhyphen"/>ence, which changes our natures, and transforms us into the Image of God, as much as if we were born again, and made new creatures,</hi> p. 265.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>You mean, Sir, that a ſtedfaſt Belief of Gods revelations, does excite that love and obedience, which changes our natures, <hi>&amp;c.</hi> and ſo makes a new Birth needleſs; but Mr. <hi>Sher<g ref="char:EOLhyphen"/>lock,</hi> ſome cavelling <hi>Fanatick</hi> would b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo per<g ref="char:EOLhyphen"/>verſe (I dare ſay) were you diſcourſing with him, as to tell you, that our natures are chang<g ref="char:EOLhyphen"/>ed before they can put forth a Belief ſtedfaſt e<g ref="char:EOLhyphen"/>nough to excite love and obedience: And as <hi>they will be fooling with Scripture-metaphors (though you have corrected them for it,</hi> p. 281.) they would tell you, that the Childs motion does not give it life, but its life gives it motion.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>And as for that <hi>union</hi> that you mentioned <hi>between Chriſt and Believers,</hi> the Fa<g ref="char:EOLhyphen"/>naticks commonly explain it by firſt a <hi>Legal union, ſuch as is between the ſurety and debtor,</hi> p. 281. <hi>ſome inſist moſt upon the notion of a Surety, others of a Mediator, which come much to one, but yet have ſome peculiar abſurdities be<g ref="char:EOLhyphen"/>longing to each of them,</hi> p. 287. As firſt for the notion of a Surety—</p>
+            </sp>
+            <pb n="36" facs="tcp:41494:26"/>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>You need not tire your ſelf with the repetition of them: I can eaſily gueſs at them, the imparity between Chriſts being a Surety, and ſureties among men. As to that you know the Rule, <hi>Similitudo non currit quatuor pedibus,</hi> Similitudes do not hold in every thing. It will be thought enough, that they agree in the main, that as the Debtor and Surety are ſo far one perſon in the eye of humane law, that the payment of the Surety is the Debtors diſ<g ref="char:EOLhyphen"/>charge; ſo Chriſt and a Believer are ſo far one perſon in the eye of the Divine Law, that Chriſts undergoing the puniſhment of the Law, diſcharges the Believer from it; and Chriſts active obedience to the Law, diſobliges the Be<g ref="char:EOLhyphen"/>liever from obeying it to that end (for which it was originally intended, and) for which Chriſt obeyed it, <hi>viz.</hi> that it might be the <hi>material and meritorious cauſe of our juſtification.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>
+                  <hi>Let us now try whether the notion of a Mediator can do any better ſervice, than the notion of a Surety,</hi> p. 296. <hi>The notion of a Me<g ref="char:EOLhyphen"/>diator includes no ſuch thing as the fulfilling of all righteouſneſs for them, whom one is Mediator to,</hi> p. 296, 297.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>Sir, Your Antagoniſts anſwer will be the ſame in effect, that though a <hi>Mediator is one who interpoſes between two differing par<g ref="char:EOLhyphen"/>ties, and his Office is not to perform the conditions himſelf</hi> (as you well obſerve) <hi>p.</hi> 297, yet the difference between God and man could
+<pb n="37" facs="tcp:41494:26"/>not be accommodated (you will be told) by this Mediator, but by performing the condi<g ref="char:EOLhyphen"/>tions himſelf. For the reaſon why <hi>God would not enter into a Covenant with ſinners without the intervention of a ſacrifice,</hi> p. 297, was, be<g ref="char:EOLhyphen"/>cauſe his Law being broken, till the penalty due to that breach was undergone; and his ho<g ref="char:EOLhyphen"/>nour thereby vindicated, he could not right his Mercy, without wronging his Juſtice.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>I have done with the <hi>Legal <g ref="char:V">Ʋ</g>nion.</hi> There is <hi>ſecondly,</hi> a <hi>Myſtical <g ref="char:V">Ʋ</g>nion,</hi> by vertue of which <hi>they imagine that we receive Grace from Chriſts perſon, juſt as we do water out of a Conduit,</hi> p. 197, 204. Whereas <hi>a Mediator as Mediator, ought not to be conſidered as the Foun<g ref="char:EOLhyphen"/>tain, but as the Miniſter of Grace,</hi> p. 209.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>I have always underſtood, that they mean no more by their <hi>Myſtical <g ref="char:V">Ʋ</g>nion,</hi> than an union Analogical to <hi>natural</hi> union, ſuch as that of Vine and Branches, Head and Mem<g ref="char:EOLhyphen"/>bers, by vertue of which they ſuppoſe they are paſſive in receiving grace from Chriſt, as the Branches in receiving ſap from the Root, and the Members ſpirits from the Head. But this I perceive is an imagination without ground in your opinion. And your reaſon againſt it confirms me more in my ſuſpicion, that you do but <hi>verba dare,</hi> deceive, when you ſay, <hi>The <g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>nion of the Divine and Humane Nature in Chriſt did excellently qualifie him for the office of a Me<g ref="char:EOLhyphen"/>diator,</hi> p. 205, 206. For if Chriſt as a Mediator
+<pb n="38" facs="tcp:41494:27"/>be not the fountain of Grace, <hi>ſecundum natu<g ref="char:EOLhyphen"/>ram divinam,</hi> i. e. as God he may paſs from a Mediator, though he were <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a meer man; then he might <hi>perſwade men</hi> to be gracious by <hi>powerful motives</hi> (though he could not beſtow grace upon them) which is all you intend by Chriſts being a <hi>miniſter of Grace.</hi> The <hi>Fanaticks</hi> indeed, ſilly ſouls as they are, think, that Chriſts Obedience was the meritorious cauſe of Grace, and his Spirit the efficient or fountain of it: but you inſtruct them better, that Chriſt by his blood purchaſed only a Co<g ref="char:EOLhyphen"/>venant of Salvation, to them that have grace (come by it as they can.) But pray, Sir, what <hi>
+                     <g ref="char:V">Ʋ</g>nion</hi> do you allow of, any, or none?</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>The Union between Chriſt and the Chriſtian Church, is but a Political Union, that is, ſuch an Union as is between a King and his Subjects, <hi>p.</hi> 156.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>Then am I united already, (which is more than ever I knew before: for Chriſt is Head of Principalities and Powers, and they are his ſubjects, <hi>de jure,</hi> I am ſure.)</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>Hold there, <hi>our union to Chriſt con<g ref="char:EOLhyphen"/>ſiſts in our belief of his Revelations,</hi> Ib.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>Then ſtill my claim is good; for I <hi>be<g ref="char:EOLhyphen"/>lieve all his Revelations;</hi> (and were I ſure none but friends were within hearing, I would ſay, <hi>that's more than you do.</hi>)</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>You are a jeering Companion and a little too haſty; our union to Chriſt
+<pb n="39" facs="tcp:41494:27"/>conſiſts alſo in our obedience to his Laws, and ſubjection to his Authority, <hi>p.</hi> 156.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>Now I am half gone. But yet I live in hopes, that the <hi>powerful motives</hi> you have talked ſo much of, may be powerful enough to move me to that obedience and ſubjection I owe to Chriſts Laws and Authority, ſeeing I already believe all his Revelations. I will not give you much longer trouble, I have but one ſcruple more. I perceive by your laſt diſcourſe, That <hi>God requir'd not ſuch a ſacri<g ref="char:EOLhyphen"/>fice as the death of Chriſt for the expiation of our ſins, becauſe he could not do otherwiſe,</hi> p. 46. This I would have made plain. For it ſticks much with me, that I am a debtor to Divine Juſtice, and therefore I do not underſtand how God can be good to me, till that debt be paid, and Juſtice ſatisfied. For if he ſhould, it ſeems to me that God ſhould raiſe one of his Attributes upon the ruin of another, and ſo do himſelf a prejudice, to do me a kind<g ref="char:EOLhyphen"/>neſs. Your charity I believe is ſuch that you wiſh me well, as you do all mankind. Anſwer but this one Objection, and I am ſatisfied.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>
+                  <hi>That God is ſo juſt and righteous, that he cannot pardon ſin without ſatisfaction to his juſtice, is indeed ſuch a notion of juſtice, as is perfectly new, which neither Scripture nor na<g ref="char:EOLhyphen"/>ture acquaints us with; for all mankind have ac<g ref="char:EOLhyphen"/>counted it an act of goodneſs (without the leaſt
+<pb n="40" facs="tcp:41494:28"/>ſuſpition of injuſtice in it) to remit injuries and offences without exacting any puniſhment; and that he is ſo far from being juſt that he is cruel and ſavage, who will remit no offence till he hath ſatisfied his revenge. That part of juſtice which conſiſts in puniſhing of offenders, was always looked on as an iuſtrument of Government, and therefore the exacting or remitting puniſhment, was referred to the wiſdom of Governours, who might ſpare or puniſh as they ſaw reaſon for it, without being unjuſt in either,</hi> p. 45, 46. And this is ſo rational, that thou canſt not but ſub<g ref="char:EOLhyphen"/>ſcribe to the judgment of all mankind. And but that I think you propoſe this ſcruple only to try what anſwer I can make; I ſhould won<g ref="char:EOLhyphen"/>der one of ſo pregnant wit ſhould talk ſo like a fool.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>I doubt Sir, you have not conſul<g ref="char:EOLhyphen"/>ted all mankind, I have heard other doctrine conſtantly taught in the Aſſemblies of Chri<g ref="char:EOLhyphen"/>ſtians (who ſure are part of mankind) where I have been a conſtant and attentive hearer, and I cannot but believe and tremble.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>I doubt, Sir Satan, your ears have not been matches. It may be you have heard ſuch doctrine in Conventicles: There is one <hi>John Owen</hi> that hath given us a faſte of the gift he exerciſes in ſuch Aſſembles, in a late Book, Entituled, <hi>Communion with God the Father, &amp;c.</hi> that tells us, what ever diſco<g ref="char:EOLhyphen"/>veries were made of the patience and lenity of
+<pb n="41" facs="tcp:41494:28"/>God to us, yet if it were not withal revealed that the other Properties of God, as his Ju<g ref="char:EOLhyphen"/>ſtice and Revenge for Sin, had their actings aſſigned them to the full, there could be lit<g ref="char:EOLhyphen"/>tle conſolation gathered from the former, p. 95. But what ſay I to this? <hi>That is,</hi> J. O. <hi>would not believe God himſelf though he ſhould make never ſo many promiſes of being good and gracious to ſinners, unleſs he were ſure, that he had firſt ſatisfied his reveng. The ſume of which is, That God is all love and patience when he has taken his fill of revenge, as others uſe to ſay, That the Devil is good when he is pleaſed</hi> p. 47. Excuſe me that I make uſe of your name.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>I willingly excuſe your making uſe of my name; for ſeeing I have failed in my am<g ref="char:EOLhyphen"/>bition of being <hi>like God,</hi> I am well enough con<g ref="char:EOLhyphen"/>tent, you ſhould make God like me.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>Elſewhere the ſame <hi>J.O.</hi> ſays, That in Chriſt the very nature of God is diſcovered to be love and kindneſs. But I think I pay him off. Hearken and you ſhall have my Comment with his Text to a tittle. <hi>An happy change, this from all Juſtice to all Love! but how comes this to paſs? why the account of that is very plain; be<g ref="char:EOLhyphen"/>cauſe the Juſtice of God hath glutted it ſelf with revenge on ſin, in the death of Chriſt and ſo hence<g ref="char:EOLhyphen"/>forward we may be ſure he will be very kind, as a revengeful man is when his paſſion is over,</hi> p. 46.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>But what's the matter then that ſin<g ref="char:EOLhyphen"/>ners (which I know by woful experience my
+<pb n="42" facs="tcp:41494:29"/>ſelf) are haunted with continual fears of Gods Juſtice. Thoſe fears ſeem to be the effects of the natural notions of God's Juſtice, which we carry about with us.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>The <hi>workings of the Law, the a<g ref="char:EOLhyphen"/>mazing terrors of Gods wrath, the raging de<g ref="char:EOLhyphen"/>ſpair of damned ſpirits, are the working of an heated fancy, and Religious diſtraction,</hi> p. 95. <hi>Theſe muſt needs be the effect of ignorance, not of an acquaintance with Chriſt, which ſuggeſts ſo many encouraging-conſiderations to return to God, as to a merciful and compaſſionate Father, and not to tremble at his preſence as a ſevere and in<g ref="char:EOLhyphen"/>exorable Judg.</hi> Ib.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>
+                  <hi>O bene factum!</hi> O well done my white Boy: <hi>O Lepidum caput!</hi> now your work is done, you have obliged me for ever. For now I undeaſtand, that my fears are but melancholy and hypochondraical (ſuch as timerous perſons are ſubject to when left in the dark). There is nothing in Gods nature can give me cauſe of fear, (at leaſt, if I do but return to God) but there is enough in it to give me cauſe of hope. And though I have no acquaintance with Chriſt, my acquaintance with God will ſerve my turn. For Chriſt diſcovers nothing more of Gods gracious nature to ſinners, than we knew before by the light of nature (as I well remem<g ref="char:EOLhyphen"/>ber you inſtructed me awhile ſince.) In ſhort, it ſeems <hi>there is a naturalneſs of mercy in God, but not of juſtice.</hi>
+               </p>
+            </sp>
+            <pb n="43" facs="tcp:41494:29"/>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>No, no; of the naturalneſs of Gods Juſtice, that he could not pardon ſin without ſatisfaction, I make this the import, <hi>That he is ſo juſt, that he hath not one dram of goodneſs in him, till his rage and vengeance be ſatisfied, which is a glorious kind of Juſtice I confeſs,</hi> p. 59.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>I perceive you are a merry Gentle<g ref="char:EOLhyphen"/>man; and ſo are all of your Club. And I hope hereafter I ſhall be merry too, and be fit to make one of you. <hi>I am ſure I had almoſt po<g ref="char:EOLhyphen"/>red out my eyes with ſeeking for theſe Goſpel my<g ref="char:EOLhyphen"/>ſteries in the Goſpel, and could never find them,</hi> p. 40. (To borrow your ſignificant words, with your good leave) but now I underſtand that I looked for them where they were not. I ſhould have learned <hi>to argue from the nature of God, and his works of Providence, and the na<g ref="char:EOLhyphen"/>ture of mankind</hi> [and Angels.] though <hi>the Ea<g ref="char:EOLhyphen"/>naticks call ſuch arguings carnal reaſon,</hi> p. 79. There is nothing now remains (beſides thanks for your pains), but to ſum up the heads of Argument upon which my hopes of ſalvation (as well as mans are built.) And if I ſhould miſrepreſent any of them, you will pleaſe to correct my miſtakes.</p>
+               <p n="1">1. <hi>That God is ſo good, that he deſigns and deſires the happineſs of all his Creatures, accor<g ref="char:EOLhyphen"/>ding to the capacity of their natures</hi> [and there<g ref="char:EOLhyphen"/>fore mine.]</p>
+               <pb n="44" facs="tcp:41494:30"/>
+               <p n="2">2. <hi>That Gods will in that deſign is not arbi<g ref="char:EOLhyphen"/>trary, having no reaſon but it ſelf: For ſuch a will would deſtroy all the perfections of Gods nature.</hi>
+               </p>
+               <p n="3">3. <hi>That holineſs in the Creature, is the reaſon of the determination of his love to any particu<g ref="char:EOLhyphen"/>lar perſon.</hi>
+               </p>
+               <p n="4">4. <hi>That this holineſs is not an effect of an Omnipotent Power, but of powerful motives and arguments,</hi> [and ſo by the uſe of my free-will, I may be holy if I will.]</p>
+               <p n="5">5. <hi>That though this holineſs be not perfect, yet God will accept it, if ſincere.</hi>
+               </p>
+               <p n="6">6. <hi>This acceptance of my ſincere holineſs, I have reaſon to believe and hope for, though I have no promiſe.</hi> For</p>
+               <p n="7">7. <hi>Gods gracious nature obliges him to reward all ſincerely, (though imperfectly) good actions. God is merciful to all, whoſe Creator he is, and affords them all poſſible means of Salvation, with<g ref="char:EOLhyphen"/>out a Saviour, or any knowledg of one.</hi> And ac<g ref="char:EOLhyphen"/>cordingly,</p>
+               <p n="8">8. <hi>De facto,</hi> Abel <hi>and</hi> Enoch, <hi>and</hi> Abra<g ref="char:EOLhyphen"/>ham, <hi>were ſaved without a Faith in Chriſt. And needs they muſt, becauſe no man could believe in Chriſt till he came.</hi> And</p>
+               <p n="9">9. <hi>Though God hates me now, yet he may love me hereafter. For Gods love and hatred are not immutable, nor does the immutability of them conſiſt in loving or hating alway the ſame per<g ref="char:EOLhyphen"/>ſon, but for the ſame reaſon,</hi> becauſe they are
+<pb n="45" facs="tcp:41494:30"/>either good or bad. And (which may confirm me)</p>
+               <p n="10">10. <hi>God never deſigned the glory of mercy and juſtice in ſaving ſome, and not others, in the permiſſion of his Creatures ſins.</hi>
+               </p>
+               <p n="11">11. Though a Saviour was brought into the world after it was about Four thouſand years old; yet he was not of abſolute neceſſi<g ref="char:EOLhyphen"/>ty, <hi>for the only knowledg abſolutely neceſſary to the purpoſes of Religion</hi> (whereof Salvation is not the leaſt) <hi>is ſuch a knowledg of Gods na<g ref="char:EOLhyphen"/>ture and will, as is ſufficient to direct our actions, and incourage our obedience</hi> And hence,</p>
+               <p n="12">12. <hi>The wiſdom of God was not diſcovered in ſending a Saviour, if there were no other way of redeeming the World. For wiſdom conſiſts in the choice of the beſt and fitteſt means to at<g ref="char:EOLhyphen"/>tain an end, when there are more ways than one of doing it.</hi>
+               </p>
+               <p n="13">13. <hi>This Saviour being the Eternal Son of God, we may reaſonably conclude he came up<g ref="char:EOLhyphen"/>on no leſs deſign than of univerſal goodneſs; for he can have no temptation to partiality, as be<g ref="char:EOLhyphen"/>ing equally concerned in the happineſs of all men; and we cannot imagine why he ſhould lay a narrower deſign of love in the redempti<g ref="char:EOLhyphen"/>on, than in the Creation of mankind,</hi> &amp;c. [all which fits my caſe; the Eternal Son of God being my Creator, hath no temptation to partiality, being equally concerned in my
+<pb n="46" facs="tcp:41494:31"/>happineſs and mans, as we are his rational Creatures.]</p>
+               <p n="14">14. That a <hi>Saviour</hi> is of no great uſe now he is come. For he <hi>comes neither to fulfil the Law for ſinners, nor to die in their ſtead, but only to confirm Gods promiſe of ſaving them that repent and forſake their ſins;</hi> which <hi>pro<g ref="char:EOLhyphen"/>miſe</hi> was needleſs, Gods nature obliging him to ſave ſinners upon thoſe terms, before any promiſe; and the light of nature diſcover<g ref="char:EOLhyphen"/>ing that obligation; nor was the <hi>confirm<g ref="char:EOLhyphen"/>ing</hi> of it needful: For the light of nature would teach us that God will not break his promiſe. [And ſo if it ſhould happen that the Saviour was not intended for me, yet I might be ſaved, as <hi>Abel</hi> and <hi>Enoch</hi> were, with<g ref="char:EOLhyphen"/>out <hi>one.</hi>] And I gather from hence, that you make the blood of Chriſt no more ſa<g ref="char:EOLhyphen"/>tisfactory than the blood of Bulls and Goats were under the Law; but that God was pleaſed with both upon the ſame reaſon; becauſe <hi>the ſhedding of his</hi> and their <hi>blood, was an act of obedience to his will, not a ſa<g ref="char:EOLhyphen"/>tisfaction to his Juſtice.</hi> And ſo you have ſubverted the Goſpel, (which ſtood in the way of my hopes of Salvation) for which I con you hearty thanks. And hence I col<g ref="char:EOLhyphen"/>lect,</p>
+               <p n="15">15. That whoever was or ſhall be juſti<g ref="char:EOLhyphen"/>fied, were and ſhall be juſtified without any
+<pb n="47" facs="tcp:41494:31"/>righteouſneſs at all. For <hi>righteouſneſs</hi> im<g ref="char:EOLhyphen"/>porting a relation reſulting from the confor<g ref="char:EOLhyphen"/>mity of diſpoſitions and actions to their Rule, <hi>ſincerity is no righteouſneſs at all</hi> (ſuppoſing the righteouſneſs of Chriſt not ſo far impu<g ref="char:EOLhyphen"/>ted as to take away its defects) unleſs the Law as a Rule requires no more conformity to it ſelf, than the Goſpel as a Covenant ac<g ref="char:EOLhyphen"/>cepts; which cannot be, becauſe then no de<g ref="char:EOLhyphen"/>viations from the Law are ſinful, where there is ſincerity.</p>
+               <p n="16">16. A Saviour is the leſs needful, becauſe <hi>Gods Juſtice is not natural, though his mercy is. And the fears of ſinful men</hi> [and ſo of An<g ref="char:EOLhyphen"/>gels] <hi>of Gods Juſtice, are but the workings of heated fancy, and religious diſtraction.</hi>
+               </p>
+               <p n="17">17. If a Saviour be of uſe, the way to come by an intereſt in him, <hi>is not a fiducial reliance or recumbence on Chriſt. For that</hi> Abraham <hi>had not,</hi> [and ſo nor his children] <hi>but a believing his Revelations,</hi> [which the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> ſomewhere in her Homilies acknowledges I do. and the chief of them, <hi>The Articles of Faith] and governing our lives by them</hi> [which I hope to do hereafter.] So that <hi>Abrahams</hi> Faith and a Believers now, are of a different kind; but <hi>your faith and mine are of one kind,</hi> we both believe Gods Revelations upon Chriſts Authority, though I hope your belief governs your life and actions better than mine hath done hitherto.</p>
+               <pb n="48" facs="tcp:41494:32"/>
+               <p n="18">18. The <hi>
+                     <g ref="char:V">Ʋ</g>nion</hi> made by Faith, is not <hi>myſti<g ref="char:EOLhyphen"/>cal,</hi> i. e. analogical to a natural Union be<g ref="char:EOLhyphen"/>tween Vine and Branches, <hi>&amp;c.</hi> nor therefore are we paſſive in the reception of Grace, to believe and live accordingly. For <hi>a Media<g ref="char:EOLhyphen"/>tor as ſuch is no fountain of Grace, but only a Miniſter of Grace,</hi> i. e. one that by powerful motives perſwades us to be gracious (come by grace as we may) [and ſo it is not im<g ref="char:EOLhyphen"/>poſſible but I may get grace, though I be not united to Chriſt] but <hi>the <g ref="char:V">Ʋ</g>nion made by Faith is Political, conſiſting in a belief of Chriſts Revelations</hi> [which I have already] <hi>and go<g ref="char:EOLhyphen"/>vernment of our actions</hi> [which I am in hopes of in time, for <hi>Chriſt is the Miniſter of this Grace, by propoſing powerful arguments to it</hi>] Is not all this right?</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock,</speaker>
+               <p>Very right. I admire your tena<g ref="char:EOLhyphen"/>cious memory and ingenuity in ſo artificial a connexion of a rambling diſcourſe, and in your eaſie and natural inferences from my grounds.</p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>I wonder at your freedom in own<g ref="char:EOLhyphen"/>ing all my Conſequences, (though I think ve<g ref="char:EOLhyphen"/>rily they are deduced evidently enough from your grounds, becauſe you have ſubſcribed the Articles of the Church of <hi>England,</hi> and the Church of <hi>England</hi> ſomewhere ſays, <hi>They are to be had accurſed that preſume to ſay, that every man ſhall be ſaved by the Law or Sect
+<pb n="49" facs="tcp:41494:32"/>which he profeſſeth, ſo that he be diligent to frame his life according to that Law, and THE LIGHT OF NAT<g ref="char:V">Ʋ</g>RE. For holy Scripture doth ſet out to us only the name of Jeſus Chriſt, whereby men muſt be ſaved,</hi> [Art. 18.] Which directly contradicts one of the main grounds you laid down for my hopes. And again ſhe ſays, <hi>The Old Teſtament is not contrary to the New. For both in the Old and New Teſtament everlaſting life is offered to mankind by Chriſt, who is the only Mediator between God and man, being both God and man,</hi> [Art. 7.] And this thwarts another of your principal Poſitions. And out of the Articles and Homilies I could produce paſſages that are diametrically oppo<g ref="char:EOLhyphen"/>ſite to every Poſition of yours, which I have <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epeated, and you approved.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>Do not trouble your head about <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>econciling my Poſitions with the Church of <hi>Englands,</hi> as long as I have an <hi>Imprimatur.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Satan.</speaker>
+               <p>Excuſe me Sir, I was afraid your <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>indneſs to me ſhould prove an unkindneſs to <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our ſelf, and bring you under Church-cen<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure. If your grounds be true (as I ſee no <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>auſe to doubt) I am ſure I have cauſe to <hi>bleſs</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou, though the Church of <hi>England</hi> curſes <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou [in her 18th. Article] and to wiſh that <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at curſe being cauſeleſs, may never come <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pon you, in a ſuſpenſion <hi>ab officio &amp; beneficio.</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ong may you enjoy St. <hi>George Buttolph</hi> Lane, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d St. <hi>Buttolph Billingsgate;</hi> in the latter of
+<pb n="50" facs="tcp:41494:33"/>which you may be ſufficiently inſtructed in the <hi>eighth Liberal Art,</hi> which the vulgar call <hi>Scolding,</hi> but the learned <hi>Raillery.</hi> I know you can bear a jeſt.</p>
+               <p>And now Sir, I heartily thank you for your great pains, and truly Catholick charity, which exceeds any Prophets, Apoſtles, and even the Church of <hi>England's</hi> it ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Sherlock.</speaker>
+               <p>I wiſh the profit may be greater to you, than the pains have been to me. Farewell.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>Poſtſcript to the READER.</head>
+            <p>
+               <hi>THe Author of theſe Sheets conceives he cannot ex<g ref="char:EOLhyphen"/>cogitate a fitter cloſe than Mr.</hi> Sherlock<hi>'s to his ſecond Se<g ref="char:EOLhyphen"/>ction, with no other alteration than the ſubstitution of two words,</hi> Gods nature, <hi>inſtead of</hi> Chriſt's perſon <hi>and of</hi> God <hi>inſtead of</hi> Chriſt.</p>
+            <p>Thus Reader, I have given the<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an entire ſcheme of a new Reli<g ref="char:EOLunhyphen"/>gion, reſulting from an acquain<g ref="char:EOLhyphen"/>tance
+<pb facs="tcp:41494:33"/>with [Gods nature] in all its fundamental Principles and Practices; here is every jot and tittle of reaſon it is founded on, or pretends to, and the moſt ob<g ref="char:EOLhyphen"/>vious and eaſie connexion of one part with another, whereby thou maiſt eaſily judg of the whole fa<g ref="char:EOLhyphen"/>brick and contrivance; and I think there needs no more to ex<g ref="char:EOLhyphen"/>poſe it to the ſcorn of every con<g ref="char:EOLhyphen"/>ſidering man, who cannot but diſ<g ref="char:EOLhyphen"/>cover how inconſiſtent the Reli<g ref="char:EOLhyphen"/>gion of [Gods nature] and of his Goſpel are: this is that know<g ref="char:EOLhyphen"/>ledg of [God] theſe men [Mr. <hi>S. and his Club</hi>] glory in, as con<g ref="char:EOLhyphen"/>taining greater myſteries, &amp; more ſoul-ſaving truths, than are revea<g ref="char:EOLhyphen"/>led in the Goſpel, <hi>p.</hi> 75. <hi>And the Author thinks fit to add, that he preſumes that no conſidering man
+<pb facs="tcp:41494:34"/>will doubt whether this</hi> new <hi>Reli<g ref="char:EOLhyphen"/>gion deſerves that character which the learned</hi> Dr. Arrowſmith <hi>gives of it; and the men that are of that Religion, deſerve that ſharp cenſure which the learned</hi> Grotius <hi>gives of them, in the paſſages quoted in the Title-page, (which for the ſake of the unlearned Reader it may not be amiſs to tranſlate.</hi> In Socinia<g ref="char:EOLhyphen"/>niſm, which not undeſervedly is called a more refin'd Mahometa<g ref="char:EOLhyphen"/>niſm, Hell and Irreligion open their mouths wide. So <hi>Arrow<g ref="char:EOLhyphen"/>ſmith.</hi> The Socinians I think un<g ref="char:EOLhyphen"/>worthy not only of the name of Chriſtians, but even of Hereticks. They retain the name of Chriſti<g ref="char:EOLhyphen"/>anity, but they deſtroy the thing that bears that name. Therefore I judg they differ very little from Mahometans, who themſelves do
+<pb facs="tcp:41494:34"/>not ſpeak evil of Jeſus. So <hi>Grotius. The only thing that may ſeem wan<g ref="char:EOLhyphen"/>ting to brand the</hi> Sherlockians <hi>with the name of</hi> Socinians, <hi>and ſo of</hi> more refined Mahometans, <hi>is an explicite denial of the</hi> Godhead of Chriſt; <hi>which whether they be not in a good forwardneſs for, let the Reader judg by that paſſage,</hi> No man could believe in Chriſt till he came, that is, could not believe any thing upon his Authority, <hi>p.</hi> 247. <hi>It is a Queſtion which for his own credits ſake,</hi> Mr. Sherlock <hi>were bound (one would think) to anſwer, why no man could believe any thing upon Chriſts Authority, till he came? The only reaſon his Antagoniſts can imagine is, becauſe</hi> Chriſt had no Authority before he came. <hi>And if that be it, the falſhood of that ground is evident
+<pb facs="tcp:41494:35"/>enough (as otherwiſe ſo) by the light of</hi> Pſal. 110.1. <hi>and</hi> Mat. 23.43, 44, 45, <hi>compared, where</hi> David <hi>call'd [and ſo accounted] Chriſt</hi> his Lord, <hi>before he came; and con<g ref="char:EOLhyphen"/>ſequently ſuppoſes him to have Au<g ref="char:EOLhyphen"/>thority to exact belief. And from that falſe ground, that Chriſt had no Authority before he came, [ſup<g ref="char:EOLhyphen"/>poſing it yet to be true] this infer<g ref="char:EOLhyphen"/>ence is fair, that he was</hi> not pre<g ref="char:EOLhyphen"/>exiſtent, <hi>and ſo</hi> nor God before he came. <hi>And thence another, that he had no ſuch Authority when he come, as Mr.</hi> Sherlock <hi>denies him before he came, that is no primary and immediate Divine Authority, but only ſecondary and mediate, that is, the Authority of a Prophet, the belief of whom is reſolved into the Authority of him that ſent him as its proper ground. And how finely
+<pb facs="tcp:41494:35"/>does this notion ſuit with the ac<g ref="char:EOLhyphen"/>count which the Socinians give of the reaſon of the denomination of</hi> the Son of God, <hi>and</hi> God, <hi>given by Chriſt to himſelf.</hi> His verbis (viz. <hi>Joh.</hi> 10.35, 36.) apertiſſime indi<g ref="char:EOLhyphen"/>cat Chriſtus, quod nullam aliam ob cauſam majorem, ſeipſum Dei Filium, ac proinde Deum aſſe<g ref="char:EOLhyphen"/>ruerit, niſi quod a Patre ſanctifi<g ref="char:EOLhyphen"/>catus, &amp; in mundum miſſus fuerit, <hi>Cat. Racov. cap. de Cog. Dei.</hi> That is, In theſe words, <hi>viz.</hi> Joh. 10.35, 36. Chriſt does plainly declare, that for no other greater reaſon does he affirm that he is the Son of God, &amp; therefore God, then becauſe he was ſanctified of the Father, and ſent into the world. <hi>And leaſt</hi> Mr. Sherlock <hi>(or any on his behalf) ſhould complain of wrong done him, and not know of whom to demand
+<pb facs="tcp:41494:36"/>ſatisfaction, the Author hath thought meet to alter his firſt reſolution of concealing his Name, and with the diſcovery of it to give this account of himſelf, that he is one who hath ſubſcribed the</hi> 36 <hi>Articles of the Doctrine of the Church of</hi> England, <hi>and does hereby profeſs the continu<g ref="char:EOLhyphen"/>ance of his approbation of them as Orthodox, and conſonant to the Scri<g ref="char:EOLhyphen"/>pture; and withal that he is not ſo void of candor, but that if</hi> Mr. <hi>S. convince him that he hath wreſted any of his words, or made any illo<g ref="char:EOLhyphen"/>gical deductions from his Principles, he will not fail to give publick ſa<g ref="char:EOLhyphen"/>tisfaction in what form</hi> Mr. S. <hi>him<g ref="char:EOLhyphen"/>ſelf ſhall preſcribe, which (he con<g ref="char:EOLhyphen"/>ceives) is as much as any reaſonable man can require, or any honeſt man need to promiſe.</hi>
+            </p>
+            <closer>
+               <signed>THO. DANSON. Sometime Fell. of <hi>Magd.</hi> Coll. <hi>Oxon.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:41494:36"/>
+         </div>
+      </back>
+   </text>
+</TEI>
